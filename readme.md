@@ -18,16 +18,19 @@ bin/plugin -install mobz/elasticsearch-head
 Step 3
 --------
 set the ES_HEAP_SIZE as high as you can on your machine - i have 16 GB RAM...
+
 	export ES_HEAP_SIZE=13g
 
 Step 4
 --------
 Start elasticsearch by running
+
 	./bin/elasticsearch
 
 Step 5
 -------
 Install python and pip then run
+
 	pip install elasicsearch
 
 
@@ -35,15 +38,18 @@ Install python and pip then run
 Step 6
 --------
 In a new terminal window run the indexing code using:
+
 	python indexer.py
 
 
 Step 7
 --------
-In a new terminal window run the indexing code using:
+Once that has run, get the data points by running:
+
 	python using_tags.py
 
 Or for the description only version, use:
+
 	python using_only_description.py
 
 You can also run other queries in the browser using the head plugin at:
