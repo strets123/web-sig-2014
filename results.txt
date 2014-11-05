@@ -1,0 +1,1046 @@
+{u'athletes': [u'athletes', u'coaches', u'athlete', u'coach', u'sports', u'fans']}
+{u'avatars': [u'avatars', u'avatar', u'multiplayer', u'virtual', u'casual', u'3d', u'games', u'chat', u'create', u'game']}
+{u'clouds': [u'clouds', u'cloud', u'hybrid', u'computing', u'private', u'deploy', u'public', u'infrastructure']}
+{u'dashboards': [u'dashboards', u'bi', u'reports', u'analytics', u'reporting', u'self', u'analysis', u'intelligence', u'features']}
+{u'dial': [u'dial', u'calling', u'calls', u'voip', u'number', u'call', u'voice', u'phone']}
+{u'exercise': [u'exercise', u'sleep', u'nutrition', u'fitness', u'weight', u'healthy', u'health']}
+{u'indie': [u'indie', u'labels', u'artists', u'music']}
+{u'logos': [u'logos', u'branding', u'flash', u'design']}
+{u'pci': [u'pci', u'dss', u'hipaa', u'compliance', u'sensitive', u'compliant']}
+{u'portland': [u'portland', u'oregon', u'inc', u'founded']}
+{u'ringtones': [u'ringtones', u'ringtone', u'personalization', u'games']}
+{u'traders': [u'traders', u'forex', u'trader', u'trading', u'quotes', u'stock', u'trade']}
+{u'yellow': [u'yellow', u'pages', u'directory', u'local']}
+{u'abc': [u'abc', u'cnn', u'nbc', u'television']}
+{u'argentina': [u'argentina', u'buenos', u'aires', u'chile', u'uruguay', u'colombia', u'brazil', u'mexico', u'latin']}
+{u'arizona': [u'arizona', u'phoenix', u'tempe', u'scottsdale']}
+{u'aviation': [u'aviation', u'aircraft', u'aerospace', u'defense', u'transportation']}
+{u'chairman': [u'chairman', u'officer', u'president', u'chief', u'director', u'executive', u'ceo']}
+{u'comscore': [u'comscore', u'million', u'visitors', u'month']}
+{u'docs': [u'docs', u'zoho', u'google', u'files']}
+{u'drm': [u'drm', u'rights', u'downloads', u'songs', u'music']}
+{u'educators': [u'educators', u'classroom', u'students', u'student', u'parents', u'teachers', u'school']}
+{u'indexes': [u'indexes', u'results', u'found', u'sites']}
+{u'journalism': [u'journalism', u'citizen', u'journalists', u'news']}
+{u'k': [u'k', u'12', u'classroom', u'school', u'learning', u'education', u'students']}
+{u'madrid': [u'madrid', u'barcelona', u'munich', u'spain', u'offices']}
+{u'malware': [u'malware', u'malicious', u'phishing', u'rootkits', u'threats', u'attacks', u'spyware', u'anti', u'protects', u'spam']}
+{u'packet': [u'packet', u'ethernet', u'switching', u'inspection', u'carrier']}
+{u'photovoltaic': [u'photovoltaic', u'solar', u'pv', u'electricity', u'cells', u'thin', u'construction', u'energy', u'modules', u'power']}
+{u'podcast': [u'podcast', u'podcasters', u'podcasts', u'rss', u'content']}
+{u'therapy': [u'therapy', u'treatment', u'protein', u'disease']}
+{u'wikis': [u'wikis', u'wiki', u'blogs', u'collaboration']}
+{u'xbox': [u'xbox', u'playstation', u'360', u'ds', u'wii', u'nintendo', u'game', u'games', u'pc']}
+{u'avatar': [u'avatar', u'avatars', u'3d', u'virtual', u'chat']}
+{u'bluetooth': [u'bluetooth', u'proximity', u'phones', u'mobile']}
+{u'craigslist': [u'craigslist', u'classifieds', u'listings', u'listing', u'local']}
+{u'inbox': [u'inbox', u'outlook', u'gmail', u'emails']}
+{u'multilingual': [u'multilingual', u'language', u'languages', u'marketing']}
+{u'proximity': [u'proximity', u'bluetooth', u'nearby', u'location', u'mobile']}
+{u'russian': [u'russian', u'federation', u'portuguese', u'italian', u'arabic', u'german', u'english', u'russia', u'french', u'spanish']}
+{u'scenes': [u'scenes', u'behind', u'movies', u'shows']}
+{u'switches': [u'switches', u'routers', u'appliances', u'hardware']}
+{u'tweet': [u'tweet', u'tweets', u'tweeting', u'followers', u'twitter']}
+{u'verify': [u'verify', u'enforce', u'fraud', u'identity']}
+{u'votes': [u'votes', u'vote', u'submit', u'down', u'then']}
+{u'you\xe2': [u'you\xe2', u'll', u'it\xe2', u're', u'you']}
+{u'01': [u'01', u'02', u'www.techcrunch.com', u'05']}
+{u'ab': [u'ab', u'sweden', u'swedish', u'stockholm']}
+{u'appointments': [u'appointments', u'appointment', u'bookings', u'outlook', u'scheduling', u'calendar', u'schedule', u'book']}
+{u'bebo': [u'bebo', u'hi5', u'friendster', u'myspace', u'orkut', u'facebook', u'social', u'networks']}
+{u'coaches': [u'coaches', u'coach', u'athletes', u'school', u'teachers', u'parents', u'sports', u'everyone']}
+{u'denmark': [u'denmark', u'norway', u'copenhagen', u'sweden', u'austria', u'finland', u'belgium', u'netherlands', u'switzerland', u'spain']}
+{u'firewall': [u'firewall', u'intrusion', u'antivirus', u'virus', u'detection', u'anti', u'security']}
+{u'gmail': [u'gmail', u'hotmail', u'outlook', u'inbox', u'emails', u'aol', u'contacts', u'android', u'yahoo', u'mail']}
+{u'localization': [u'localization', u'translations', u'translation', u'language', u'testing', u'entire']}
+{u'maryland': [u'maryland', u'rockville', u'columbia', u'virginia', u'headquartered']}
+{u'memories': [u'memories', u'moments', u'forever', u'stories', u'share']}
+{u'newsletter': [u'newsletter', u'weekly', u'subscribers', u'monthly']}
+{u'prepaid': [u'prepaid', u'postpaid', u'debit', u'mastercard', u'visa', u'cards', u'transfers', u'card', u'bank', u'cash']}
+{u'procurement': [u'procurement', u'spend', u'visibility', u'supplier', u'supply']}
+{u'sa': [u'sa', u'paris', u'france', u'subsidiary', u'additional']}
+{u'sponsorship': [u'sponsorship', u'events', u'opportunities', u'networking']}
+{u'stocks': [u'stocks', u'mutual', u'investing', u'stock', u'funds', u'investors']}
+{u'therapies': [u'therapies', u'disease', u'therapeutics', u'cancer', u'diseases', u'therapy', u'treatment', u'drug', u'novel', u'patients']}
+{u'vice': [u'vice', u'versa', u'president', u'chief', u'ceo']}
+{u'vmware': [u'vmware', u'citrix', u'virtualization', u'virtualized', u'disaster', u'recovery', u'environments', u'microsoft', u'infrastructure', u'virtual']}
+{u'airline': [u'airline', u'fares', u'airlines', u'flights', u'flight', u'travel', u'tickets', u'hotel', u'air']}
+{u'barcelona': [u'barcelona', u'madrid', u'spain', u'offices']}
+{u'finalist': [u'finalist', u'seedcamp', u'winner', u'selected', u'awards']}
+{u'herring': [u'herring', u'red', u'winner', u'awards', u'won', u'100', u'best']}
+{u'landing': [u'landing', u'pages', u'salesforce.com', u'marketers', u'forms', u'conversion', u'roi', u'optimization', u'page', u'marketing']}
+{u'microsystems': [u'microsystems', u'sun', u'cisco', u'oracle']}
+{u'munich': [u'munich', u'madrid', u'london', u'germany', u'paris', u'offices']}
+{u'norway': [u'norway', u'sweden', u'denmark', u'finland', u'greece', u'austria', u'belgium', u'turkey', u'switzerland', u'netherlands']}
+{u'saved': [u'saved', u'bookmarks', u'save', u'down']}
+{u'virus': [u'virus', u'anti', u'viruses', u'spyware', u'spam', u'firewall', u'malware', u'protects', u'threats']}
+{u'zip': [u'zip', u'codes', u'code', u'estate', u'local']}
+{u'chronic': [u'chronic', u'acute', u'pain', u'diseases', u'treatment', u'therapeutic', u'patients', u'disease']}
+{u'cooking': [u'cooking', u'chefs', u'recipe', u'recipes', u'food']}
+{u'employer': [u'employer', u'recruiting', u'resume', u'career', u'employers', u'job', u'jobs', u'recruiters', u'seekers', u'candidates']}
+{u'freelancers': [u'freelancers', u'freelance', u'project', u'work']}
+{u'hospital': [u'hospital', u'patient', u'hospitals', u'physician', u'patients', u'medical', u'care', u'healthcare']}
+{u'ourselves': [u'ourselves', u'pride', u'we', u'our']}
+{u'powerpoint': [u'powerpoint', u'excel', u'presentations', u'word', u'pdf', u'documents']}
+{u'protein': [u'protein', u'proteins', u'antibodies', u'therapeutics', u'therapeutic', u'therapy', u'disease', u'diseases', u'treatment', u'novel']}
+{u'queries': [u'queries', u'query', u'search', u'engine']}
+{u'therapeutic': [u'therapeutic', u'acute', u'antibodies', u'protein', u'proteins', u'biopharmaceutical', u'therapeutics', u'chronic', u'diseases', u'treatment']}
+{u'threat': [u'threat', u'threats', u'viruses', u'attacks', u'vulnerability', u'security', u'malware', u'prevention', u'compliance', u'protection']}
+{u'wind': [u'wind', u'turbines', u'turbine', u'energy', u'plants', u'clean', u'renewable', u'power']}
+{u'auctions': [u'auctions', u'auction', u'bid', u'ebay', u'sellers', u'buyers']}
+{u'bars': [u'bars', u'restaurants', u'clubs', u'shops', u'places', u'events']}
+{u'converged': [u'converged', u'cellular', u'ip', u'mobility', u'carrier', u'voice', u'equipment', u'deliver', u'providers', u'infrastructure']}
+{u'flights': [u'flights', u'flight', u'airlines', u'airline', u'hotels', u'trips', u'travel', u'travelers', u'tickets', u'car']}
+{u'freelance': [u'freelance', u'freelancers', u'jobs', u'employers', u'he', u'projects', u'work']}
+{u'litigation': [u'litigation', u'law', u'legal', u'corporations', u'firms', u'discovery']}
+{u'reservation': [u'reservation', u'reservations', u'accommodation', u'booking', u'airline', u'restaurant', u'vacation', u'rentals', u'hotel', u'restaurants']}
+{u'reservations': [u'reservations', u'reservation', u'booking', u'hotel']}
+{u'st': [u'st', u'petersburg', u'louis', u'paul']}
+{u'tvs': [u'tvs', u'tablets', u'connected', u'pcs', u'smartphones', u'screen']}
+{u'columbia': [u'columbia', u'district', u'british', u'maryland', u'vancouver', u'washington', u'headquartered', u'inc']}
+{u'denver': [u'denver', u'colorado', u'san', u'headquartered']}
+{u'diagnostic': [u'diagnostic', u'diagnostics', u'patient', u'imaging']}
+{u'environmentally': [u'environmentally', u'friendly', u'eco', u'green', u'energy']}
+{u'followers': [u'followers', u'tweet', u'twitter', u'fans']}
+{u'hollywood': [u'hollywood', u'films', u'studio', u'movie', u'studios', u'entertainment']}
+{u'plants': [u'plants', u'fuels', u'plant', u'wind', u'renewable']}
+{u'provisioning': [u'provisioning', u'virtualization', u'billing', u'architecture', u'cloud']}
+{u'q': [u'q', u'answers', u'questions', u'ask', u'forum', u'amp']}
+{u'wi': [u'wi', u'fi', u'wireless', u'location']}
+{u'bidding': [u'bidding', u'auction', u'bid', u'campaign', u'marketplace']}
+{u'characters': [u'characters', u'140', u'animated', u'games']}
+{u'concerts': [u'concerts', u'festivals', u'performances', u'tickets', u'sporting', u'concert', u'upcoming', u'events', u'find']}
+{u'desk': [u'desk', u'help', u'support', u'managed']}
+{u'metro': [u'metro', u'ethernet', u'optical', u'area']}
+{u'recipes': [u'recipes', u'recipe', u'cooking', u'ingredient', u'meals', u'food', u'japanese', u'share']}
+{u'ticketing': [u'ticketing', u'tickets', u'ticket', u'venues', u'organizers', u'event', u'payments', u'sell', u'events']}
+{u'treat': [u'treat', u'diseases', u'disease', u'molecule', u'treatment', u'novel', u'therapeutics', u'medical', u'patients']}
+{u'animations': [u'animations', u'animation', u'effects', u'flash']}
+{u'appointment': [u'appointment', u'appointments', u'scheduling', u'schedule']}
+{u'battery': [u'battery', u'batteries', u'ion', u'portable']}
+{u'css': [u'css', u'xhtml', u'html', u'mysql', u'javascript', u'php', u'rails', u'ruby', u'cms', u'design']}
+{u'emissions': [u'emissions', u'greenhouse', u'co2', u'carbon', u'gas', u'reduction', u'sustainability', u'fuel', u'green', u'electricity']}
+{u'flight': [u'flight', u'flights', u'fares', u'airlines', u'aircraft', u'airline', u'weather', u'travel']}
+{u'nbc': [u'nbc', u'universal', u'cbs', u'fox', u'abc', u'mtv']}
+{u'semiconductors': [u'semiconductors', u'semiconductor', u'rf', u'equipment', u'manufacturing']}
+{u'synchronization': [u'synchronization', u'synchronize', u'sync', u'offline', u'contacts', u'backup']}
+{u'theft': [u'theft', u'identity', u'protection', u'protects', u'prevention', u'fraud', u'monitor', u'security']}
+{u'weight': [u'weight', u'loss', u'lose', u'fitness', u'exercise']}
+{u'belgium': [u'belgium', u'poland', u'netherlands', u'thailand', u'denmark', u'austria', u'italy', u'switzerland', u'sweden', u'norway']}
+{u'bookmarks': [u'bookmarks', u'del.icio.us', u'saved', u'safari', u'favorites', u'bookmarking', u'firefox', u'browser']}
+{u'broadcasters': [u'broadcasters', u'cable', u'streaming', u'tv', u'broadcast', u'television']}
+{u'dates': [u'dates', u'due', u'list', u'events']}
+{u'ethernet': [u'ethernet', u'gigabit', u'packet', u'switching', u'metro', u'protocol', u'carrier', u'fiber', u'fabless', u'routing']}
+{u'italian': [u'italian', u'portuguese', u'spanish', u'french', u'german', u'english', u'russian']}
+{u'payroll': [u'payroll', u'hr', u'tax', u'accounting', u'employee']}
+{u'playlists': [u'playlists', u'music', u'playlist', u'songs', u'listen', u'listening', u'streaming', u'artist', u'stream', u'player']}
+{u'proactive': [u'proactive', u'monitoring', u'managed', u'certified']}
+{u'regulations': [u'regulations', u'comply', u'compliance', u'security']}
+{u'seller': [u'seller', u'buyer', u'sellers', u'buyers', u'transaction', u'marketplace', u'deal']}
+{u'sql': [u'sql', u'vb.net', u'asp.net', u'server', u'mysql', u'php', u'database', u'c']}
+{u'urls': [u'urls', u'url', u'short', u'link']}
+{u'vancouver': [u'vancouver', u'bc', u'columbia', u'british', u'canada']}
+{u'cbs': [u'cbs', u'mtv', u'nbc', u'fox']}
+{u'chemical': [u'chemical', u'chemicals', u'manufacturing', u'industries']}
+{u'gallery': [u'gallery', u'image', u'photo', u'art']}
+{u'ic': [u'ic', u'ics', u'analog', u'fabless', u'programmable', u'circuit', u'semiconductor', u'silicon', u'mixed']}
+{u'impressions': [u'impressions', u'campaign', u'publishers', u'revenue', u'ad']}
+{u'league': [u'league', u'baseball', u'soccer', u'football', u'fantasy', u'sports']}
+{u'lighting': [u'lighting', u'leds', u'fixtures', u'led', u'manufactures']}
+{u'polls': [u'polls', u'poll', u'surveys', u'opinion', u'survey', u'questions']}
+{u'russia': [u'russia', u'turkey', u'brazil', u'russian', u'poland', u'spain', u'netherlands', u'china', u'france']}
+{u'validation': [u'validation', u'verification', u'testing', u'code']}
+{u'ages': [u'ages', u'kids', u'child', u'children', u'parents']}
+{u'biotech': [u'biotech', u'pharmaceutical', u'drug', u'clinical', u'drugs', u'medical', u'diseases']}
+{u'broker': [u'broker', u'brokers', u'dealers', u'agents', u'asset']}
+{u'brokerage': [u'brokerage', u'mutual', u'funds', u'firms', u'investment']}
+{u'fantasy': [u'fantasy', u'football', u'league', u'prizes', u'sports', u'games']}
+{u'filters': [u'filters', u'filter', u'spam', u'search']}
+{u'handsets': [u'handsets', u'handset', u'device', u'wireless', u'mobile', u'phone']}
+{u'resume': [u'resume', u'resumes', u'career', u'employer', u'job', u'cover', u'employers', u'recruiting', u'posting']}
+{u'rfid': [u'rfid', u'identification', u'frequency', u'radio', u'tags']}
+{u'sustainability': [u'sustainability', u'carbon', u'sustainable', u'environmental', u'emissions', u'green', u'energy']}
+{u'teaching': [u'teaching', u'teachers', u'classroom', u'teacher', u'k', u'learning', u'schools', u'students', u'education', u'skills']}
+{u'wellness': [u'wellness', u'health', u'fitness', u'women']}
+{u'wisdom': [u'wisdom', u'crowds', u'prediction', u'collective']}
+{u'blogger': [u'blogger', u'livejournal', u'bloggers', u'blogging', u'readers', u'posts', u'blog', u'text']}
+{u'campus': [u'campus', u'campuses', u'students', u'college', u'student', u'prospective', u'universities', u'school', u'education']}
+{u'drupal': [u'drupal', u'joomla', u'wordpress', u'cms', u'php', u'open', u'source', u'sites']}
+{u'men': [u'men', u'women', u'male', u'apparel']}
+{u'mysql': [u'mysql', u'php', u'apache', u'joomla', u'css', u'linux', u'sql', u'oracle', u'ruby', u'ajax']}
+{u'sequoia': [u'sequoia', u'capital', u'backed', u'ventures']}
+{u'sun': [u'sun', u'microsystems', u'cisco', u'ibm']}
+{u'taiwan': [u'taiwan', u'taipei', u'korea', u'japan', u'china', u'fabless']}
+{u'tours': [u'tours', u'tour', u'travel', u'virtual']}
+{u'continents': [u'continents', u'five', u'four', u'global']}
+{u'oems': [u'oems', u'integrators', u'manufacturers', u'embedded', u'equipment', u'original']}
+{u'sem': [u'sem', u'seo', u'rankings', u'ppc', u'optimization', u'marketing', u'engine', u'qualified', u'search', u'agency']}
+{u'trips': [u'trips', u'trip', u'itinerary', u'travel', u'travelers', u'flights', u'destinations', u'plan']}
+{u'district': [u'district', u'columbia', u'reorganization', u'petition', u'filed', u'chapter', u'court', u'washington']}
+{u'fiber': [u'fiber', u'optic', u'optical', u'ethernet']}
+{u'fulfillment': [u'fulfillment', u'inventory', u'ecommerce', u'2000']}
+{u'lending': [u'lending', u'borrowers', u'loans', u'kiva', u'lenders', u'loan', u'securities', u'p2p', u'credit', u'peer']}
+{u'listening': [u'listening', u'playlist', u'listen', u'artist', u'music']}
+{u'loans': [u'loans', u'lending', u'lenders', u'borrowers', u'loan', u'mortgages', u'mortgage', u'deposits', u'credit', u'finance']}
+{u'merchandise': [u'merchandise', u'jewelry', u'retailers', u'stores']}
+{u'photographers': [u'photographers', u'photographer', u'photography', u'images', u'royalty', u'photo', u'image', u'designers', u'stock', u'professionals']}
+{u'physicians': [u'physicians', u'physician', u'doctors', u'patients', u'patient', u'clinical', u'medical', u'care', u'diagnostic', u'health']}
+{u'prizes': [u'prizes', u'win', u'fantasy', u'cash', u'compete', u'games']}
+{u'surveillance': [u'surveillance', u'homeland', u'enforcement', u'security']}
+{u'venue': [u'venue', u'event', u'venues', u'tickets']}
+{u'biopharmaceutical': [u'biopharmaceutical', u'diseases', u'therapeutics', u'molecule', u'therapeutic', u'oncology', u'drugs', u'pharmaceuticals', u'drug', u'treatment']}
+{u'chief': [u'chief', u'officer', u'mr', u'vice', u'president', u'chairman', u'executive', u'founder', u'prior', u'ceo']}
+{u'chips': [u'chips', u'semiconductor', u'chip', u'chipsets', u'processors', u'receivers', u'assembly', u'telecommunications']}
+{u'clothing': [u'clothing', u'apparel', u'accessories', u'men', u'women', u'items']}
+{u'description': [u'description', u'idea', u'feeds', u'vote', u'rss', u'page', u'add']}
+{u'encryption': [u'encryption', u'aes', u'256', u'ssl', u'encrypted', u'secure', u'security']}
+{u'fi': [u'fi', u'wi', u'sci', u'phones']}
+{u'nearby': [u'nearby', u'2013', u'location', u'app', u'iphone']}
+{u'orange': [u'orange', u'county', u'vodafone', u'operators']}
+{u'reseller': [u'reseller', u'servers', u'managed', u'hosting', u'secure']}
+{u'rf': [u'rf', u'receiver', u'cmos', u'semiconductor', u'receivers', u'fabless', u'analog', u'frequency', u'signal', u'modules']}
+{u'switching': [u'switching', u'mpls', u'ethernet', u'routing', u'switch', u'protocol']}
+{u'wifi': [u'wifi', u'wimax', u'3g', u'wireless', u'devices']}
+{u'360': [u'360', u'xbox', u'playstation', u'degree', u'game']}
+{u'airlines': [u'airlines', u'airline', u'flight', u'flights', u'air', u'travel']}
+{u'animated': [u'animated', u'scenes', u'characters', u'games']}
+{u'behavioral': [u'behavioral', u'targeting', u'contextual', u'publishers', u'advertising']}
+{u'clara': [u'clara', u'santa', u'california', u'fabless', u'processor', u'semiconductor', u'kit', u'headquartered']}
+{u'currency': [u'currency', u'forex', u'currencies', u'virtual']}
+{u'excel': [u'excel', u'spreadsheets', u'powerpoint', u'word']}
+{u'gmbh': [u'gmbh', u'germany', u'austria', u'ag', u'german', u'develops']}
+{u'merchant': [u'merchant', u'merchants', u'card', u'deals', u'credit']}
+{u'political': [u'political', u'election', u'elected', u'candidates', u'issues']}
+{u'prospects': [u'prospects', u'qualified', u'leads', u'lead', u'marketing', u'full']}
+{u'reminders': [u'reminders', u'notifications', u'emergency', u'alerts', u'send']}
+{u'salesforce.com': [u'salesforce.com', u'netsuite', u'sugarcrm', u'crm', u'contact', u'cloud']}
+{u'sap': [u'sap', u'peoplesoft', u'oracle', u'erp', u'upgrades', u'process']}
+{u'scanning': [u'scanning', u'raster', u'scan', u'barcode']}
+{u'staffing': [u'staffing', u'temporary', u'recruiting', u'hire', u'contract', u'recruitment', u'recruiters', u'consulting']}
+{u'stanford': [u'stanford', u'university', u'harvard', u'princeton', u'mit']}
+{u'thoughts': [u'thoughts', u'opinions', u'ideas', u'share']}
+{u'3g': [u'3g', u'2g', u'wifi', u'gprs', u'gsm', u'broadband', u'operators', u'carriers', u'wireless', u'mobile']}
+{u'advertiser': [u'advertiser', u'advertisers', u'campaign', u'advertising']}
+{u'circuit': [u'circuit', u'analog', u'programmable', u'ic', u'manufactures']}
+{u'firefox': [u'firefox', u'explorer', u'mozilla', u'safari', u'chrome', u'extension', u'ie', u'browser', u'plugin']}
+{u'korea': [u'korea', u'seoul', u'taiwan', u'south', u'korean', u'japan', u'kingdom']}
+{u'password': [u'password', u'passwords', u'username', u'protected', u'login', u'authentication', u'secure']}
+{u'recruiters': [u'recruiters', u'recruiter', u'candidate', u'recruiting', u'candidates', u'employers', u'hire', u'job', u'recruitment', u'hiring']}
+{u'translation': [u'translation', u'translators', u'translations', u'translator', u'localization', u'translate', u'language', u'languages']}
+{u'watching': [u'watching', u'watch', u'tv', u'videos']}
+{u'analog': [u'analog', u'mixed', u'signal', u'ics', u'cmos', u'ic', u'semiconductor', u'circuit', u'amplifiers', u'rf']}
+{u'apparel': [u'apparel', u'clothing', u'men', u'shoes', u'accessories']}
+{u'candidate': [u'candidate', u'candidates', u'recruitment', u'recruiters', u'inflammatory', u'recruiting', u'hire', u'hiring', u'postings', u'job']}
+{u'fitness': [u'fitness', u'workout', u'weight', u'exercise', u'nutrition', u'health', u'wellness', u'achieve']}
+{u'hospitals': [u'hospitals', u'clinics', u'hospital', u'patient', u'health', u'care']}
+{u'housing': [u'housing', u'classifieds', u'properties', u'rental', u'estate']}
+{u'illinois': [u'illinois', u'chicago', u'known', u'subsidiary', u'formerly', u'headquartered', u'offices']}
+{u'msn': [u'msn', u'icq', u'yahoo', u'messenger', u'google']}
+{u'outlook': [u'outlook', u'gmail', u'hotmail', u'inbox', u'calendar', u'ms', u'appointments', u'mail', u'microsoft']}
+{u'predictive': [u'predictive', u'analytics', u'modeling', u'patented', u'better']}
+{u'quotes': [u'quotes', u'traders', u'trading', u'stock']}
+{u'speech': [u'speech', u'recognition', u'speak', u'voice']}
+{u'circuits': [u'circuits', u'ics', u'foundry', u'chips', u'analog', u'semiconductor', u'signal', u'mixed', u'integrated', u'designs']}
+{u'colorado': [u'colorado', u'boulder', u'denver', u'healthcare']}
+{u'degree': [u'degree', u'360', u'mr', u'bachelor']}
+{u'doctors': [u'doctors', u'doctor', u'patients', u'physicians', u'medical', u'health', u'healthcare']}
+{u'electricity': [u'electricity', u'solar', u'energy', u'photovoltaic', u'renewable', u'heat', u'water', u'clean', u'grid', u'gas']}
+{u'enforcement': [u'enforcement', u'law', u'policy', u'surveillance']}
+{u'exactly': [u'exactly', u'what', u'done', u'photos', u'know']}
+{u'football': [u'football', u'basketball', u'baseball', u'fantasy', u'hockey', u'soccer', u'nfl', u'ncaa', u'sports', u'league']}
+{u'hospitality': [u'hospitality', u'hotel', u'industries', u'retail']}
+{u'hr': [u'hr', u'payroll', u'recruiting', u'recruitment', u'employee', u'human', u'candidates']}
+{u'loan': [u'loan', u'lenders', u'borrower', u'loans', u'mortgage', u'lender', u'borrowers', u'lending', u'credit', u'banks']}
+{u'mtv': [u'mtv', u'viacom', u'cbs', u'comedy']}
+{u'podcasts': [u'podcasts', u'podcast', u'podcasting', u'itunes', u'rss', u'audio']}
+{u'ppc': [u'ppc', u'seo', u'sem', u'optimization', u'adwords', u'marketing', u'organic', u'search', u'engine', u'agency']}
+{u'song': [u'song', u'lyrics', u'songs', u'music', u'artist', u'listen', u'downloads', u'artists']}
+{u'sync': [u'sync', u'synchronization', u'synchronize', u'backup', u'files', u'file', u'devices', u'friends']}
+{u'traded': [u'traded', u'publicly', u'symbol', u'exchange']}
+{u'tweets': [u'tweets', u'tweet', u'tweeting', u'twitter', u'replies']}
+{u'waste': [u'waste', u'recycling', u'water', u'environmental', u'energy', u'clean']}
+{u'beijing': [u'beijing', u'china', u'taipei', u'shanghai', u'chinese', u'ltd']}
+{u'bid': [u'bid', u'bids', u'auction', u'auctions', u'bidding']}
+{u'cancer': [u'cancer', u'cancers', u'breast', u'tumor', u'infectious', u'treatment', u'diseases', u'oncology', u'therapies', u'therapeutics']}
+{u'cart': [u'cart', u'shopping', u'ecommerce', u'sell', u'order', u'e', u'customer']}
+{u'concert': [u'concert', u'tickets', u'theater', u'ticket', u'fans', u'live']}
+{u'dealers': [u'dealers', u'dealer', u'distributors', u'automotive']}
+{u'drivers': [u'drivers', u'passengers', u'driver', u'car']}
+{u'governance': [u'governance', u'compliance', u'stakeholders', u'risks', u'streamline', u'visibility', u'risk', u'regulatory', u'reporting', u'enterprise']}
+{u'hiring': [u'hiring', u'recruiting', u'recruiters', u'applicant', u'recruitment', u'candidates', u'employers', u'employment', u'talent']}
+{u'mortgage': [u'mortgage', u'mortgages', u'lenders', u'loan', u'loans', u'brokers', u'banking', u'credit', u'rates']}
+{u'processors': [u'processors', u'programmable', u'chips', u'semiconductor']}
+{u'scientists': [u'scientists', u'researchers', u'scientific', u'engineers']}
+{u'shanghai': [u'shanghai', u'taipei', u'beijing', u'china', u'tokyo', u'hong', u'kong', u'chinese', u'offices', u'held']}
+{u'tax': [u'tax', u'income', u'payroll', u'preparation', u'accounting']}
+{u'warner': [u'warner', u'bros', u'bmg', u'emi', u'sony', u'universal']}
+{u'authentication': [u'authentication', u'identity', u'factor', u'secure', u'fraud', u'password', u'security', u'transactions']}
+{u'calling': [u'calling', u'calls', u'dial', u'voip', u'skype', u'call', u'telephone', u'phones', u'voice', u'phone']}
+{u'codes': [u'codes', u'qr', u'promo', u'coupon', u'zip', u'discount', u'deals']}
+{u'handset': [u'handset', u'handsets', u'operators', u'mobile', u'phones', u'wireless', u'phone']}
+{u'multiplayer': [u'multiplayer', u'massively', u'game', u'warcraft', u'games', u'avatars', u'mmo', u'played', u'casual', u'players']}
+{u'loss': [u'loss', u'weight', u'prevention', u'protects']}
+{u'protects': [u'protects', u'threats', u'viruses', u'malware', u'spam', u'anti', u'phishing', u'protection', u'theft', u'block']}
+{u'rentals': [u'rentals', u'vacation', u'apartments', u'rental', u'condos', u'villas', u'holiday', u'homes']}
+{u'angel': [u'angel', u'investors', u'funded', u'entrepreneurs']}
+{u'carbon': [u'carbon', u'offsets', u'emissions', u'offset', u'footprint', u'greenhouse', u'sustainability', u'biomass', u'fuels', u'environmental']}
+{u'cells': [u'cells', u'tumor', u'photovoltaic', u'stem', u'solar', u'cancer', u'cell', u'efficiency']}
+{u'continuity': [u'continuity', u'disaster', u'recovery', u'archiving', u'microsoft', u'security']}
+{u'doesn': [u'doesn', u't', u'might', u'guide']}
+{u'emergency': [u'emergency', u'responders', u'reminders', u'response', u'notification', u'health']}
+{u'healthy': [u'healthy', u'healthier', u'nutrition', u'lifestyle', u'living']}
+{u'lovers': [u'lovers', u'songs', u'artists', u'music']}
+{u'mixed': [u'mixed', u'signal', u'analog', u'ics', u'cmos', u'semiconductor', u'rf']}
+{u'pr': [u'pr', u'relations', u'press', u'marketing']}
+{u'threats': [u'threats', u'phishing', u'viruses', u'spyware', u'malware', u'threat', u'protects', u'attacks', u'security', u'spam']}
+{u'ag': [u'ag', u'swiss', u'zurich', u'gmbh', u'switzerland', u'germany', u'2006']}
+{u'archiving': [u'archiving', u'archive', u'virus', u'continuity', u'spam', u'disaster', u'recovery', u'filtering', u'storage']}
+{u'simplicity': [u'simplicity', u'analyze', u'once', u'power']}
+{u'xml': [u'xml', u'json', u'csv', u'developers']}
+{u'dell': [u'dell', u'hp', u'compaq', u'ibm', u'protection']}
+{u'erp': [u'erp', u'crm', u'chain', u'sap', u'supply']}
+{u'mining': [u'mining', u'oil', u'data', u'analysis', u'analytics']}
+{u'reduced': [u'reduced', u'improved', u'increased', u'less']}
+{u'rent': [u'rent', u'renting', u'renters', u'rental', u'apartments', u'property']}
+{u'risks': [u'risks', u'compliance', u'regulatory', u'security']}
+{u'clips': [u'clips', u'watch', u'mtv', u'video', u'videos', u'upload']}
+{u'contracts': [u'contracts', u'contract', u'record', u'insurance']}
+{u'decide': [u'decide', u'someone', u'receive', u'get']}
+{u'iptv': [u'iptv', u'vod', u'joost', u'boxes', u'tv', u'ip']}
+{u'newspaper': [u'newspaper', u'circulation', u'newspapers', u'daily']}
+{u'pdf': [u'pdf', u'powerpoint', u'format', u'documents']}
+{u'sunnyvale': [u'sunnyvale', u'california', u'unified', u'headquartered', u'held', u'privately', u'offices']}
+{u'tour': [u'tour', u'tours', u'tourism', u'venues', u'operators', u'travel']}
+{u'wordpress': [u'wordpress', u'drupal', u'joomla', u'cms', u'php']}
+{u'colleges': [u'colleges', u'universities', u'admissions', u'schools', u'students', u'student', u'prospective', u'college', u'education']}
+{u'dvd': [u'dvd', u'blu', u'disc', u'cd', u'players']}
+{u'integrators': [u'integrators', u'resellers', u'oems', u'providers', u'systems', u'manufacturers', u'worldwide', u'agencies']}
+{u'messenger': [u'messenger', u'icq', u'instant', u'msn', u'floating', u'im', u'aim', u'windows', u'messaging', u'chat']}
+{u'policies': [u'policies', u'enforce', u'policy', u'regulatory', u'compliance', u'security']}
+{u'seekers': [u'seekers', u'employers', u'job', u'recruiters', u'jobs', u'resumes', u'career', u'employment', u'boards', u'recruiting']}
+{u'bands': [u'bands', u'music', u'labels', u'musicians', u'band', u'concerts', u'artists', u'venues']}
+{u'banner': [u'banner', u'banners', u'units', u'advertiser', u'advertising', u'advertisers', u'ad']}
+{u'bay': [u'bay', u'area', u'francisco', u'san']}
+{u'brokers': [u'brokers', u'agents', u'broker', u'mortgage', u'agent', u'estate', u'listings', u'real']}
+{u'cameras': [u'cameras', u'camcorders', u'printers', u'camera']}
+{u'employment': [u'employment', u'employers', u'job', u'jobs', u'career']}
+{u'identification': [u'identification', u'rfid', u'frequency', u'radio']}
+{u'invest': [u'invest', u'equity', u'investment', u'investors']}
+{u'logo': [u'logo', u'brochure', u'graphic', u'designers']}
+{u'played': [u'played', u'multiplayer', u'players', u'games', u'play']}
+{u'survey': [u'survey', u'surveys', u'polls', u'tool']}
+{u'bill': [u'bill', u'paying', u'billing', u'payments']}
+{u'conferencing': [u'conferencing', u'meetings', u'collaboration', u'conference', u'remote']}
+{u'gamers': [u'gamers', u'warcraft', u'hardcore', u'gamer', u'game', u'games', u'gameplay', u'gaming']}
+{u'personalization': [u'personalization', u'personalized', u'ringtones', u'landing']}
+{u'x': [u'x', u'mri', u'ray', u'os', u'mac']}
+{u'aerospace': [u'aerospace', u'defense', u'military', u'aviation', u'automotive', u'manufacturing', u'vehicles', u'test', u'industries']}
+{u'anti': [u'anti', u'virus', u'spam', u'malware', u'protects']}
+{u'brazil': [u'brazil', u'paulo', u'sao', u'argentina', u'mexico', u'latin', u'spain', u'italy', u'kingdom']}
+{u'clubs': [u'clubs', u'bars', u'club', u'associations', u'sports']}
+{u'gifts': [u'gifts', u'gifting', u'gift', u'send']}
+{u'outsourced': [u'outsourced', u'offshore', u'assurance', u'outsourcing']}
+{u'smartphones': [u'smartphones', u'tablets', u'android', u'devices']}
+{u'fox': [u'fox', u'cbs', u'nbc', u'mtv']}
+{u'frequency': [u'frequency', u'radio', u'identification', u'rfid', u'transmitters', u'antenna', u'cmos', u'rf', u'wireless']}
+{u'javascript': [u'javascript', u'css', u'html', u'ajax', u'php']}
+{u'rooms': [u'rooms', u'room', u'hotel', u'meeting']}
+{u'virginia': [u'virginia', u'mclean', u'reston', u'maryland', u'vienna', u'washington']}
+{u'gap': [u'gap', u'bridge', u'bridges', u'between']}
+{u'hp': [u'hp', u'dell', u'ibm', u'hewlett', u'packard']}
+{u'president': [u'president', u'vice', u'chief', u'officer', u'director', u'chairman', u'ceo', u'executive']}
+{u'drugs': [u'drugs', u'molecule', u'pharmaceutical', u'drug', u'medicines', u'inflammation', u'disease', u'diseases', u'biopharmaceutical', u'biotechnology']}
+{u'fuel': [u'fuel', u'gasoline', u'ethanol', u'fossil', u'fuels', u'renewable', u'emissions', u'transportation', u'carbon', u'clean']}
+{u'prevention': [u'prevention', u'intrusion', u'loss', u'fraud', u'leakage', u'preventing', u'threats', u'vulnerability', u'security', u'detection']}
+{u'rewards': [u'rewards', u'reap', u'miles', u'reward', u'earn']}
+{u'authors': [u'authors', u'books', u'publish', u'writers', u'tags', u'retain', u'readers', u'publishing']}
+{u'bookmarking': [u'bookmarking', u'bookmark', u'bookmarklet', u'del.icio.us', u'digg', u'tag', u'links', u'tags']}
+{u'clicks': [u'clicks', u'few', u'click', u'just']}
+{u'courses': [u'courses', u'course', u'learners', u'golf', u'curriculum', u'lessons', u'learning', u'college', u'training']}
+{u'digg': [u'digg', u'reddit', u'newsvine', u'del.icio.us', u'delicious', u'voting', u'bookmarking', u'vote', u'article', u'similar']}
+{u'organic': [u'organic', u'seo', u'ppc', u'traffic']}
+{u'streamline': [u'streamline', u'processes', u'governance', u'reduce', u'visibility', u'costs']}
+{u'study': [u'study', u'academic', u'students', u'education', u'college']}
+{u'sweden': [u'sweden', u'norway', u'denmark', u'stockholm', u'ab', u'belgium', u'finland', u'austria', u'germany', u'switzerland']}
+{u'winner': [u'winner', u'herring', u'alwayson', u'red', u'awards', u'2010', u'2011']}
+{u'article': [u'article', u'articles', u'readership', u'rss', u'links']}
+{u'grid': [u'grid', u'electric', u'solar', u'utility', u'energy', u'smart', u'electricity', u'utilities']}
+{u'login': [u'login', u'passwords', u'password', u'account']}
+{u'pharmaceuticals': [u'pharmaceuticals', u'oral', u'inflammatory', u'medicines', u'molecule', u'pharmaceutical', u'diseases', u'biopharmaceutical', u'biotechnology', u'therapeutics']}
+{u'reader': [u'reader', u'rss', u'readers', u'interesting']}
+{u'embed': [u'embed', u'youtube', u'video', u'share']}
+{u'hire': [u'hire', u'recruiting', u'recruiters', u'staffing', u'employers', u'temporary', u'applicant', u'candidate', u'job', u'seekers']}
+{u'implementing': [u'implementing', u'designing', u'implementation', u'processes', u'customers']}
+{u'italy': [u'italy', u'spain', u'france', u'milan', u'germany', u'greece', u'poland', u'belgium', u'republic', u'austria']}
+{u'jose': [u'jose', u'san', u'california', u'headquartered']}
+{u'switzerland': [u'switzerland', u'austria', u'zurich', u'turkey', u'belgium', u'denmark', u'ag', u'italy', u'germany']}
+{u'therapeutics': [u'therapeutics', u'diseases', u'oncology', u'biopharmaceutical', u'protein', u'treatment', u'inflammation', u'drug', u'therapeutic', u'molecule']}
+{u'trip': [u'trip', u'trips', u'itinerary', u'travel', u'traveler', u'travelers', u'destinations', u'guide', u'reviews']}
+{u'venues': [u'venues', u'festivals', u'ticketing', u'promoters', u'bands', u'venue', u'tour', u'events', u'tickets', u'artists']}
+{u'auction': [u'auction', u'auctions', u'bid', u'bids', u'ebay', u'bidding', u'sellers', u'price', u'items']}
+{u'conferences': [u'conferences', u'attendees', u'conference', u'events', u'event']}
+{u'contextual': [u'contextual', u'behavioral', u'publishers', u'targeting', u'advertisers']}
+{u'coupons': [u'coupons', u'coupon', u'deals', u'promotions', u'discounts', u'discount', u'merchants', u'deal', u'find']}
+{u'destinations': [u'destinations', u'attractions', u'hotels', u'minute', u'travel']}
+{u'discussions': [u'discussions', u'discussion', u'interests', u'connect']}
+{u'films': [u'films', u'filmmakers', u'filmmaker', u'hollywood', u'documentaries', u'film']}
+{u'im': [u'im', u'messenger', u'chat', u'aim', u'yahoo', u'windows', u'browser']}
+{u'keyword': [u'keyword', u'keywords', u'advertiser', u'pay', u'optimization']}
+{u'os': [u'os', u'x', u'mac', u'linux', u'windows', u'core']}
+{u'adobe': [u'adobe', u'flex', u'air', u'flash']}
+{u'biotechnology': [u'biotechnology', u'drugs', u'therapeutics', u'novel', u'treatment', u'pharmaceuticals', u'cancer']}
+{u'keywords': [u'keywords', u'keyword', u'engines', u'pages']}
+{u'offshore': [u'offshore', u'outsourcing', u'asp', u'asp.net', u'outsourced', u'php', u'maintenance', u'testing', u'development']}
+{u'hd': [u'hd', u'sd', u'definition', u'streaming', u'video', u'high']}
+{u'labels': [u'labels', u'artists', u'music', u'promoters', u'artist', u'bands', u'fan', u'record']}
+{u'teachers': [u'teachers', u'teacher', u'students', u'teaching', u'parents', u'schools', u'classroom', u'lesson', u'learning']}
+{u'atlanta': [u'atlanta', u'georgia', u'ga', u'chicago', u'york', u'london']}
+{u'cars': [u'cars', u'trucks', u'car', u'vehicles', u'automotive']}
+{u'logistics': [u'logistics', u'transportation', u'supply', u'freight', u'chain', u'inventory', u'manufacturing', u'tracking']}
+{u'newspapers': [u'newspapers', u'magazines', u'newspaper', u'news']}
+{u'presentations': [u'presentations', u'powerpoint', u'brochure', u'documents']}
+{u'reduces': [u'reduces', u'improves', u'significantly', u'increases', u'costs']}
+{u'filtering': [u'filtering', u'spam', u'filter', u'archiving']}
+{u'investing': [u'investing', u'stocks', u'investors', u'investment']}
+{u'japanese': [u'japanese', u'ntt', u'japan', u'softbank', u'korean', u'tokyo', u'chinese', u'english', u'french', u'spanish']}
+{u'journal': [u'journal', u'wall', u'street', u'journals', u'usa', u'times']}
+{u'light': [u'light', u'emitting', u'leds', u'diode']}
+{u'schedule': [u'schedule', u'appointment', u'schedules', u'appointments', u'scheduling']}
+{u'vacation': [u'vacation', u'rentals', u'rental', u'travelers', u'accommodations', u'cruises', u'hotel', u'memorable', u'travel', u'destinations']}
+{u'wall': [u'wall', u'street', u'journal', u'usa']}
+{u'water': [u'water', u'wastewater', u'drinking', u'electric', u'waste', u'electricity', u'energy', u'clean']}
+{u'fabless': [u'fabless', u'semiconductor', u'rf', u'taiwan', u'chipsets', u'signal', u'cmos', u'chip', u'ethernet', u'clara']}
+{u'fan': [u'fan', u'fans', u'artists', u'labels', u'music', u'follow', u'sports']}
+{u'lost': [u'lost', u'stolen', u'lose', u'protection']}
+{u'restaurant': [u'restaurant', u'restaurants', u'table', u'eat', u'reservation']}
+{u'vehicles': [u'vehicles', u'vehicle', u'cars', u'automotive']}
+{u'ajax': [u'ajax', u'javascript', u'mysql', u'php', u'browser']}
+{u'audit': [u'audit', u'trail', u'compliance', u'vendor', u'finance']}
+{u'definition': [u'definition', u'hd', u'high', u'streaming']}
+{u'fraud': [u'fraud', u'detection', u'fraudulent', u'prevention', u'phishing', u'prevent', u'authentication', u'transactions', u'verify', u'identity']}
+{u'itunes': [u'itunes', u'last.fm', u'apple', u'iphone', u'ipod', u'app', u'music', u'apps']}
+{u'mp3': [u'mp3', u'wav', u'players', u'audio', u'music']}
+{u'musicians': [u'musicians', u'music', u'artists', u'bands', u'song', u'fans', u'labels']}
+{u'oil': [u'oil', u'gas', u'crude', u'fuels', u'biofuels', u'transportation', u'sustainable', u'energy', u'clean']}
+{u'broadcasting': [u'broadcasting', u'turner', u'cartoon', u'stations', u'radio', u'television', u'live']}
+{u'colleagues': [u'colleagues', u'friends', u'post', u'share']}
+{u'exceptional': [u'exceptional', u'delivering', u'experience', u'customer']}
+{u'flickr': [u'flickr', u'photobucket', u'youtube', u'picasa', u'photos']}
+{u'gift': [u'gift', u'gifting', u'gifts', u'cards', u'card', u'giving']}
+{u'measurable': [u'measurable', u'results', u'brands', u'loyalty', u'deliver']}
+{u'mobility': [u'mobility', u'wlan', u'wireless', u'cellular', u'enterprise']}
+{u'photography': [u'photography', u'photographers', u'images', u'art', u'image', u'photo']}
+{u'academic': [u'academic', u'study', u'pharmaceutical', u'educational']}
+{u'crunchbase.com': [u'crunchbase.com', u'competitors', u'crowded', u'competitor', u'href', u'title', u'http']}
+{u'investor': [u'investor', u'investors', u'investment', u'funds']}
+{u'oracle': [u'oracle', u'peoplesoft', u'informatica', u'siebel', u'sap', u'mysql']}
+{u'signal': [u'signal', u'mixed', u'analog', u'semiconductor', u'circuits', u'fabless', u'rf']}
+{u'agent': [u'agent', u'agents', u'brokers', u'estate']}
+{u'cisco': [u'cisco', u'microsystems', u'sun', u'ibm']}
+{u'renewable': [u'renewable', u'energy', u'electricity', u'solar', u'clean', u'photovoltaics', u'ethanol', u'fossil', u'biofuels', u'agricultural']}
+{u'disaster': [u'disaster', u'recovery', u'continuity', u'replication', u'backup', u'vmware', u'restore', u'protection', u'storage', u'servers']}
+{u'german': [u'german', u'english', u'italian', u'russian', u'portuguese', u'french', u'spanish', u'languages']}
+{u'ireland': [u'ireland', u'dublin', u'irish', u'italy', u'germany', u'kingdom', u'france']}
+{u'kids': [u'kids', u'parents', u'children', u'kid', u'ages', u'child', u'parent', u'young']}
+{u'military': [u'military', u'aerospace', u'defense', u'advanced']}
+{u'organisations': [u'organisations', u'customisable', u'organisation', u'uk', u'fully', u'sector']}
+{u'regulatory': [u'regulatory', u'compliance', u'policies', u'outside', u'financial', u'organizations']}
+{u'usability': [u'usability', u'accessibility', u'centered', u'testing']}
+{u'viewers': [u'viewers', u'viewer', u'shows', u'watch', u'tv']}
+{u'booking': [u'booking', u'bookings', u'hotel', u'reservations', u'hotels', u'accommodation', u'reservation', u'book', u'travelers', u'travel']}
+{u'chinese': [u'chinese', u'china', u'arabic', u'japanese', u'beijing', u'language']}
+{u'defense': [u'defense', u'aerospace', u'homeland', u'department', u'components']}
+{u'ground': [u'ground', u'breaking', u'built', u'up']}
+{u'rails': [u'rails', u'ruby', u'agile', u'php', u'mysql', u'java', u'css', u'startups', u'framework', u'development']}
+{u'recruitment': [u'recruitment', u'candidate', u'recruit', u'candidates', u'employers', u'recruiters', u'job', u'recruiter', u'applicant', u'hiring']}
+{u'sending': [u'sending', u'sent', u'message', u'sms', u'messages']}
+{u'ticket': [u'ticket', u'tickets', u'stubhub', u'seats', u'concert', u'ticketing', u'event']}
+{u'awareness': [u'awareness', u'brand', u'campaigns', u'increase']}
+{u'classified': [u'classified', u'ads', u'classifieds', u'listings', u'cars']}
+{u'optical': [u'optical', u'dwdm', u'optics', u'fiber', u'lcd', u'laser']}
+{u'sustainable': [u'sustainable', u'carbon', u'sustainability', u'emissions', u'green', u'oil', u'environmental', u'energy']}
+{u'hong': [u'hong', u'kong', u'china', u'shanghai']}
+{u'listen': [u'listen', u'playlists', u'song', u'music', u'download']}
+{u'artist': [u'artist', u'artists', u'album', u'music', u'songs', u'labels', u'song', u'fans', u'listening', u'upload']}
+{u'patient': [u'patient', u'care', u'medical', u'physician', u'clinical', u'patients', u'healthcare', u'diagnostic', u'hospital', u'physicians']}
+{u'shoppers': [u'shoppers', u'shopping', u'retailers', u'comparison', u'buy', u'stores', u'purchase']}
+{u'win': [u'win', u'prizes', u'chance', u'compete']}
+{u'disease': [u'disease', u'diseases', u'treat', u'treatment', u'cardiovascular', u'drug', u'infectious', u'therapies', u'drugs', u'novel']}
+{u'edit': [u'edit', u'wiki', u'drag', u'editing', u'drop', u'add', u'upload']}
+{u'ios': [u'ios', u'android', u'app', u'blackberry', u'tablets', u'apps', u'smartphones', u'apple', u'ipad', u'mac']}
+{u'kong': [u'kong', u'hong', u'china', u'shanghai']}
+{u'playing': [u'playing', u'play', u'games', u'gaming']}
+{u'printing': [u'printing', u'paper', u'printed', u'print']}
+{u'protocol': [u'protocol', u'ip', u'voip', u'switching', u'ethernet', u'voice', u'calls', u'equipment']}
+{u'santa': [u'santa', u'clara', u'monica', u'barbara', u'california', u'fabless', u'japan']}
+{u'tickets': [u'tickets', u'ticket', u'concert', u'theatre', u'seats', u'ticketing', u'ticketmaster', u'concerts', u'theater', u'event']}
+{u'actionable': [u'actionable', u'insights', u'accurate', u'intelligence', u'insight', u'decisions']}
+{u'netherlands': [u'netherlands', u'amsterdam', u'belgium', u'b.v', u'denmark', u'poland', u'italy', u'germany', u'france', u'spain']}
+{u'ruby': [u'ruby', u'rails', u'php', u'agile', u'python', u'java', u'mysql', u'css', u'startups', u'development']}
+{u'weekly': [u'weekly', u'newsletter', u'publishes', u'daily']}
+{u'classifieds': [u'classifieds', u'classified', u'craigslist', u'ads', u'personals', u'post', u'jobs', u'listings', u'local']}
+{u'federal': [u'federal', u'state', u'governments', u'government']}
+{u'ipod': [u'ipod', u'touch', u'iphone', u'apple', u'ipad', u'itunes']}
+{u'question': [u'question', u'answer', u'answers', u'ask', u'asked', u'answering', u'questions', u'person']}
+{u'residential': [u'residential', u'commercial', u'broadband', u'property', u'estate']}
+{u'songs': [u'songs', u'song', u'music', u'pandora', u'artists', u'artist', u'playlists', u'player']}
+{u'agile': [u'agile', u'ruby', u'rails', u'scrum', u'methodologies', u'nearshore', u'development', u'teams']}
+{u'animation': [u'animation', u'3d', u'animations', u'modeling', u'studio', u'film']}
+{u'telephony': [u'telephony', u'ivr', u'telecommunication', u'voice', u'protocol', u'ip', u'telephone', u'voip', u'unified', u'communications']}
+{u'boards': [u'boards', u'bulletin', u'recruitment', u'discussion', u'job']}
+{u'imaging': [u'imaging', u'diagnostic', u'medical', u'processing', u'image']}
+{u'ipad': [u'ipad', u'android', u'iphone', u'kindle', u'blackberry', u'app', u'ipod', u'apps']}
+{u'recommendation': [u'recommendation', u'recommendations', u'personalized', u'discovery']}
+{u'stations': [u'stations', u'radio', u'station', u'broadcasting', u'television']}
+{u'blackberry': [u'blackberry', u'android', u'symbian', u'iphone', u'windows', u'ipad', u'ios', u'apps']}
+{u'latin': [u'latin', u'america', u'argentina', u'buenos', u'aires', u'asia', u'europe', u'brazil', u'north', u'pacific']}
+{u'spam': [u'spam', u'phishing', u'virus', u'anti', u'spyware', u'protects', u'malware', u'blocking', u'threats', u'filtering']}
+{u'story': [u'story', u'stories', u'telling', u'comment', u'breaking']}
+{u'c': [u'c', u'vb.net', u'vb', u'hepatitis', u'asp.net', u'php']}
+{u'law': [u'law', u'enforcement', u'litigation', u'firms', u'legal']}
+{u'virtualization': [u'virtualization', u'vmware', u'citrix', u'virtualized', u'virtual', u'infrastructure', u'storage', u'planning', u'desktop']}
+{u'diseases': [u'diseases', u'treatment', u'infectious', u'therapeutics', u'biopharmaceutical', u'treat', u'metabolic', u'autoimmune', u'disease', u'inflammatory']}
+{u'pacific': [u'pacific', u'asia', u'europe', u'americas', u'region', u'africa', u'america', u'latin', u'australia', u'north']}
+{u'telephone': [u'telephone', u'telephony', u'calling', u'calls']}
+{u'writers': [u'writers', u'readers', u'writing', u'authors']}
+{u'accounting': [u'accounting', u'invoicing', u'payroll', u'tax', u'finance']}
+{u'publishes': [u'publishes', u'magazines', u'weekly', u'distributes']}
+{u'universities': [u'universities', u'colleges', u'students', u'schools', u'admissions', u'prospective', u'student', u'university', u'college']}
+{u'url': [u'url', u'urls', u'shortener', u'sign', u'link']}
+{u'11': [u'11', u'bankruptcy', u'chapter', u'filed', u'www.techcrunch.com']}
+{u'africa': [u'africa', u'east', u'middle', u'south', u'asia', u'johannesburg', u'americas', u'pacific', u'europe']}
+{u'french': [u'french', u'spanish', u'english', u'portuguese', u'italian', u'german', u'russian', u'japanese', u'france', u'languages']}
+{u'recruiting': [u'recruiting', u'staffing', u'recruiters', u'applicant', u'candidates', u'employer', u'employers', u'hiring', u'hire', u'job']}
+{u'banks': [u'banks', u'unions', u'deposits', u'banking', u'credit', u'hedge', u'funds', u'financial', u'firms', u'institutions']}
+{u'detection': [u'detection', u'intrusion', u'fraud', u'firewall', u'prevention', u'threats']}
+{u'peer': [u'peer', u'p2p', u'lenders', u'student']}
+{u'retailer': [u'retailer', u'stationery', u'retailers', u'stores']}
+{u'someone': [u'someone', u'decide', u'if', u'just']}
+{u'www.techcrunch.com': [u'www.techcrunch.com', u'07', u'05', u'03', u'04', u'01', u'09', u'06', u'08', u'02']}
+{u'answer': [u'answer', u'questions', u'question', u'answers', u'ask', u'read', u'forum']}
+{u'comment': [u'comment', u'comments', u'vote', u'story', u'discuss', u'stories', u'rate']}
+{u'drug': [u'drug', u'drugs', u'disease', u'therapeutics', u'pharmaceutical', u'clinical', u'biopharmaceutical', u'acute', u'discovery', u'biotech']}
+{u'hotel': [u'hotel', u'hotels', u'hospitality', u'vacation', u'booking', u'travel', u'packages', u'rooms']}
+{u'scheduling': [u'scheduling', u'attendance', u'appointment', u'appointments', u'accounting']}
+{u'street': [u'street', u'wall', u'journal', u'streets', u'usa']}
+{u'discussion': [u'discussion', u'forums', u'discuss', u'forum']}
+{u'red': [u'red', u'herring', u'hat', u'winner']}
+{u'spanish': [u'spanish', u'english', u'portuguese', u'french', u'italian', u'german', u'russian', u'arabic', u'japanese', u'spain']}
+{u'answers': [u'answers', u'questions', u'question', u'answer', u'q', u'read']}
+{u'funds': [u'funds', u'hedge', u'mutual', u'etfs', u'etf', u'brokerage', u'investment', u'stocks', u'investor', u'investors']}
+{u'intellectual': [u'intellectual', u'property', u'patents', u'ip']}
+{u'press': [u'press', u'releases', u'release', u'pr']}
+{u'her': [u'her', u'his', u'she', u'him']}
+{u'rights': [u'rights', u'copyright', u'licensing', u'played', u'licenses']}
+{u'tag': [u'tag', u'tags', u'www.techcrunch.com', u'tagging', u'tagged', u'bookmarking']}
+{u'homes': [u'homes', u'homeowners', u'estate', u'apartments', u'rent', u'rentals', u'rental', u'vacation', u'properties', u'property']}
+{u'ibm': [u'ibm', u'lotus', u'hp', u'sun', u'dell', u'cisco', u'microsoft', u'strategic', u'partnerships']}
+{u'solar': [u'solar', u'photovoltaic', u'electricity', u'energy', u'pv', u'renewable', u'photovoltaics', u'cells', u'thin', u'fossil']}
+{u'children': [u'children', u'parents', u'child', u'kids', u'books', u'safe', u'schools']}
+{u'conversations': [u'conversations', u'conversation', u'monitor', u'engagement']}
+{u'sony': [u'sony', u'bmg', u'warner', u'universal', u'apple', u'broadcasting']}
+{u'vote': [u'vote', u'votes', u'voting', u'comment', u'description', u'submit']}
+{u'mapping': [u'mapping', u'map', u'gis', u'maps']}
+{u'policy': [u'policy', u'policies', u'enforcement', u'control', u'massachusetts']}
+{u'saving': [u'saving', u'del.icio.us', u'money', u'login', u'account']}
+{u'tokyo': [u'tokyo', u'japan', u'japanese', u'softbank', u'seoul']}
+{u'travelers': [u'travelers', u'travel', u'vacation', u'traveler', u'trip', u'accommodations', u'itineraries', u'hotels', u'trips', u'flights']}
+{u'women': [u'women', u'men', u'woman', u'fashion']}
+{u'distributors': [u'distributors', u'sells', u'resellers', u'manufacturers']}
+{u'east': [u'east', u'middle', u'africa', u'asia', u'americas', u'europe', u'pacific', u'south', u'america']}
+{u'billing': [u'billing', u'bill', u'accounting', u'payment', u'payments', u'credit']}
+{u'carrier': [u'carrier', u'backhaul', u'wireless', u'grade', u'ethernet']}
+{u'casual': [u'casual', u'games', u'gaming', u'game', u'multiplayer', u'players', u'play']}
+{u'emails': [u'emails', u'gmail', u'recipients', u'hotmail', u'inbox', u'send', u'contacts', u'sent']}
+{u'patients': [u'patients', u'patient', u'treatment', u'physicians', u'doctors', u'medical', u'clinical', u'chronic', u'diseases', u'blood']}
+{u'employers': [u'employers', u'seekers', u'job', u'jobs', u'resumes', u'candidates', u'recruitment', u'recruiting', u'recruiter', u'employer']}
+{u'fund': [u'fund', u'mayfield', u'venture', u'investment', u'capital']}
+{u'middle': [u'middle', u'east', u'africa', u'asia', u'americas', u'europe', u'pacific', u'south', u'america']}
+{u'utility': [u'utility', u'energy', u'grid', u'electricity']}
+{u'accessories': [u'accessories', u'shoes', u'clothing', u'receivers', u'apparel', u'manufactures']}
+{u'candidates': [u'candidates', u'candidate', u'employers', u'recruiters', u'job', u'recruiting', u'recruitment', u'hiring', u'employer', u'career']}
+{u'cms': [u'cms', u'xhtml', u'drupal', u'php']}
+{u'compare': [u'compare', u'comparison', u'prices', u'shopping']}
+{u'environmental': [u'environmental', u'sustainability', u'economic', u'energy', u'waste', u'carbon', u'green', u'industrial', u'sustainable', u'fuel']}
+{u'gas': [u'gas', u'oil', u'greenhouse', u'energy', u'emissions', u'electric']}
+{u'paris': [u'paris', u'france', u'sa', u'munich']}
+{u'unified': [u'unified', u'telephony', u'sip', u'ip', u'communications']}
+{u'cable': [u'cable', u'satellite', u'tv', u'broadcast', u'television', u'broadband']}
+{u'equity': [u'equity', u'hedge', u'investment', u'invest', u'funds', u'ups', u'capital', u'investors', u'entrepreneurs']}
+{u'feed': [u'feed', u'rss', u'atom', u'feeds']}
+{u'll': [u'll', u'you\xe2', u'you', u've']}
+{u'clean': [u'clean', u'energy', u'renewable', u'coal', u'solar', u'fuel', u'water', u'wind', u'electricity', u'oil']}
+{u'php': [u'php', u'mysql', u'asp.net', u'ruby', u'java', u'vb.net', u'perl', u'asp', u'joomla', u'apache']}
+{u'discuss': [u'discuss', u'debate', u'discussion', u'chat', u'topics', u'members']}
+{u'engages': [u'engages', u'manufacture', u'segment', u'subsidiaries', u'company\xe2']}
+{u'significantly': [u'significantly', u'lowers', u'reduces', u'costs']}
+{u'vehicle': [u'vehicle', u'vehicles', u'fleet', u'motor', u'fuel', u'driver', u'electric', u'automotive', u'transport', u'transportation']}
+{u'began': [u'began', u'didn', u'became', u'history', u'had']}
+{u'chip': [u'chip', u'blue', u'semiconductor', u'chips', u'fabless', u'silicon']}
+{u'clinical': [u'clinical', u'trials', u'patient', u'compounds', u'patients', u'therapeutic', u'surgery', u'protein', u'disease', u'physicians']}
+{u'hotels': [u'hotels', u'hotel', u'resorts', u'flights', u'attractions', u'booking', u'restaurants', u'travel', u'travelers', u'expedia']}
+{u'parents': [u'parents', u'children', u'kids', u'child', u'teachers', u'baby', u'school', u'books', u'safe', u'schools']}
+{u'ask': [u'ask', u'questions', u'question', u'answer', u'interested']}
+{u'novel': [u'novel', u'compounds', u'diseases', u'treatment', u'therapeutics', u'inflammatory', u'disease', u'metabolic', u'biotechnology', u'treat']}
+{u'transfer': [u'transfer', u'bank', u'credit', u'file', u'payment']}
+{u'amazon': [u'amazon', u's3', u'ec2', u'aws', u'cloud']}
+{u'informed': [u'informed', u'decisions', u'decision', u'make']}
+{u'boston': [u'boston', u'chicago', u'massachusetts', u'ma']}
+{u'posts': [u'posts', u'blog', u'blogger', u'readers', u'post']}
+{u'spain': [u'spain', u'italy', u'france', u'germany', u'poland', u'belgium', u'portugal', u'brazil', u'mexico', u'madrid']}
+{u'won': [u'won', u'awards', u'nominated', u'herring', u'award']}
+{u'bloggers': [u'bloggers', u'blogger', u'blog', u'readers']}
+{u'career': [u'career', u'job', u'careers', u'resume', u'employers', u'employer', u'seekers', u'jobs', u'candidates', u'advice']}
+{u'merchants': [u'merchants', u'merchant', u'coupon', u'coupons', u'payment', u'fraud', u'payments']}
+{u'paper': [u'paper', u'pulp', u'printing', u'print']}
+{u'banking': [u'banking', u'unions', u'banks', u'bank', u'insurance', u'mortgage', u'financial', u'finance', u'credit']}
+{u'calendar': [u'calendar', u'outlook', u'appointments', u'contacts']}
+{u'recovery': [u'recovery', u'disaster', u'backup', u'continuity', u'replication', u'backups', u'vmware', u'protection', u'availability', u'storage']}
+{u'transportation': [u'transportation', u'gasoline', u'logistics', u'fuel', u'oil', u'energy', u'vehicle', u'retail', u'manufacturing']}
+{u'qualified': [u'qualified', u'adwords', u'leads', u'highly']}
+{u'comparison': [u'comparison', u'price', u'shopping', u'compare', u'comparisons', u'deals', u'shoppers', u'retailers']}
+{u'reducing': [u'reducing', u'costs', u'increasing', u'efficiency', u'while']}
+{u'rental': [u'rental', u'vacation', u'rentals', u'apartments', u'condos', u'renters', u'rent', u'homes', u'travelers', u'car']}
+{u'executive': [u'executive', u'officer', u'chief', u'mr', u'chairman', u'president']}
+{u'fee': [u'fee', u'monthly', u'charges', u'annual', u'pay', u'charge']}
+{u'linux': [u'linux', u'windows', u'mac', u'apache', u'solaris', u'unix', u'ubuntu', u'mysql', u'lamp', u'os']}
+{u'pharmaceutical': [u'pharmaceutical', u'drugs', u'drug', u'biotech', u'medicines', u'clinical', u'pharmaceuticals', u'novel', u'cancer', u'disease']}
+{u'savings': [u'savings', u'accounts', u'save', u'significant']}
+{u'sent': [u'sent', u'messages', u'sending', u'emails', u'request', u'ol']}
+{u'studios': [u'studios', u'hollywood', u'studio', u'film']}
+{u'voip': [u'voip', u'calls', u'pbx', u'landline', u'jajah', u'calling', u'ip', u'voice', u'protocol', u'telephony']}
+{u'why': [u'why', u'hope', u'here', u'too']}
+{u'editing': [u'editing', u'proofreading', u'editor', u'editors', u'photo']}
+{u'installation': [u'installation', u'onsite', u'configuration', u'maintenance']}
+{u'readers': [u'readers', u'writers', u'blogger', u'read', u'bloggers', u'reader', u'posts', u'reading']}
+{u'certified': [u'certified', u'gold', u'partner', u'iso']}
+{u'dating': [u'dating', u'singles', u'matchmaking', u'love']}
+{u'lifestyle': [u'lifestyle', u'healthier', u'fashion', u'healthy', u'living']}
+{u'solve': [u'solve', u'problems', u'problem', u'challenges']}
+{u'universal': [u'universal', u'nbc', u'emi', u'warner', u'bmg', u'sony']}
+{u'listing': [u'listing', u'listings', u'estate', u'property', u'sellers']}
+{u'against': [u'against', u'phishing', u'threats', u'malware', u'spyware', u'attacks', u'spam', u'protection']}
+{u'alerts': [u'alerts', u'alert', u'reports', u'sms']}
+{u'bank': [u'bank', u'credit', u'fdic', u'debit', u'deposit', u'payment', u'banking', u'payments', u'card', u'transfer']}
+{u'old': [u'old', u'year', u'age', u'young']}
+{u'map': [u'map', u'mapping', u'maps', u'location']}
+{u'massachusetts': [u'massachusetts', u'waltham', u'cambridge', u'burlington', u'boston', u'policy']}
+{u'former': [u'former', u'ceo', u'29', u'executives', u'founder']}
+{u'green': [u'green', u'greener', u'emissions', u'environmentally', u'environmental', u'sustainable', u'living', u'good']}
+{u'last': [u'last', u'mile', u'minute', u'years', u'will', u'something', u'year']}
+{u'tips': [u'tips', u'tricks', u'living', u'guide', u'topics']}
+{u'treatment': [u'treatment', u'diseases', u'cancer', u'therapeutics', u'disease', u'disorders', u'patients', u'therapeutic', u'novel', u'therapy']}
+{u'blogging': [u'blogging', u'micro', u'blogger', u'blog']}
+{u'named': [u'named', u'alwayson', u'magazine', u'2012', u'recently']}
+{u'carriers': [u'carriers', u'wireless', u'carrier', u'providers']}
+{u'manufactures': [u'manufactures', u'designs', u'lighting', u'thermal', u'optical', u'industrial', u'drives', u'markets', u'accessories', u'automotive']}
+{u'payments': [u'payments', u'payment', u'debit', u'currencies', u'credit', u'card', u'banks', u'bank', u'bill', u'merchants']}
+{u'methods': [u'methods', u'method', u'require', u'due']}
+{u'should': [u'should', u'believes', u'be', u'why', u'you', u'gift', u'believe']}
+{u'never': [u'never', u'miss', u'again', u'stuff', u'gives', u'would', u'sign']}
+{u'english': [u'english', u'spanish', u'french', u'german', u'portuguese', u'italian', u'arabic', u'russian', u'speaking', u'languages']}
+{u'graphic': [u'graphic', u'design', u'brochures', u'designers']}
+{u'listed': [u'listed', u'exchange', u'nasdaq', u'stock', u'publicly']}
+{u'mac': [u'mac', u'windows', u'linux', u'pc', u'os', u'x', u'laptop', u'apple', u'android', u'iphone']}
+{u'deal': [u'deal', u'deals', u'cheapest', u'coupons', u'cars']}
+{u'getting': [u'getting', u'ol', u'taken', u'i', u'right', u'li']}
+{u'internationally': [u'internationally', u'states', u'united', u'distributors']}
+{u'java': [u'java', u'php', u'ruby', u'perl', u'applet', u'net', u'xml', u'python', u'rails']}
+{u'materials': [u'materials', u'nanotechnology', u'components', u'environmental']}
+{u'ca': [u'ca', u'los', u'angeles', u'san']}
+{u'category': [u'category', u'ranked', u'buying', u'rating', u'review', u'5']}
+{u'employee': [u'employee', u'payroll', u'hr', u'employees', u'customer', u'productivity']}
+{u'nearly': [u'nearly', u'geographic', u'billion', u'revenue']}
+{u'ratings': [u'ratings', u'reviews', u'rating', u'recommendations', u'professor', u'profile']}
+{u'sign': [u'sign', u'up', u'topic', u'inventory', u'account', u'url']}
+{u'angeles': [u'angeles', u'los', u'york', u'chicago', u'offices', u'francisco', u'ca']}
+{u'monetize': [u'monetize', u'publishers', u'distribute', u'monetization']}
+{u'student': [u'student', u'students', u'college', u'schools', u'colleges', u'classroom', u'universities', u'campus', u'k', u'graduate']}
+{u'chicago': [u'chicago', u'illinois', u'angeles', u'york', u'los', u'boston', u'detroit', u'francisco', u'd.c', u'atlanta']}
+{u'led': [u'led', u'lighting', u'leds', u'emitting', u'light', u'round', u'ceo']}
+{u'movies': [u'movies', u'movie', u'tv', u'shows', u'scenes', u'music', u'watch', u'films', u'entertainment', u'viewing']}
+{u'schools': [u'schools', u'universities', u'colleges', u'teachers', u'students', u'school', u'student', u'teacher', u'college', u'parents']}
+{u'car': [u'car', u'cars', u'ride', u'vehicle']}
+{u'problem': [u'problem', u'solves', u'solving', u'solve']}
+{u'automotive': [u'automotive', u'aerospace', u'vehicles', u'electronics', u'industrial', u'cars', u'consumer', u'vehicle', u'manufactures', u'manufacturers']}
+{u'restaurants': [u'restaurants', u'bars', u'restaurant', u'pubs', u'hotels', u'eat', u'shops', u'places']}
+{u'south': [u'south', u'africa', u'korea', u'america', u'east', u'asia', u'kingdom', u'europe', u'middle', u'north']}
+{u'submit': [u'submit', u'submitted', u'votes', u'voted', u'vote']}
+{u'true': [u'true', u'intent', u'dashboard', u'completely']}
+{u'watch': [u'watch', u'watching', u'videos', u'movies', u'clips', u'viewers']}
+{u'2012': [u'2012', u'2013', u'2011', u'2010', u'awards', u'march', u'named']}
+{u'apple': [u'apple', u'iphone', u'ipod', u'itunes', u'mac', u'sony', u'android', u'ios', u'devices']}
+{u'food': [u'food', u'beverage', u'foodservice', u'cooking', u'gourmet', u'recipes', u'grocery', u'recipe', u'lifestyle']}
+{u'think': [u'think', u'collective', u'really', u'words']}
+{u'transactions': [u'transactions', u'fraud', u'fraudulent', u'payment', u'debit', u'transaction', u'authentication']}
+{u'ceo': [u'ceo', u'cto', u'founder', u'president', u'former', u'chairman', u'chief', u'vice', u'his', u'he']}
+{u'protect': [u'protect', u'sensitive', u'protection', u'security', u'federal']}
+{u'stage': [u'stage', u'early', u'seed', u'clinical', u'fund', u'phase']}
+{u'comments': [u'comments', u'post', u'comment', u'discussions']}
+{u'lower': [u'lower', u'costs', u'cost', u'higher']}
+{u'agents': [u'agents', u'estate', u'agent', u'brokers', u'broker']}
+{u'anything': [u'anything', u'else', u'everything', u'wish', u'someone']}
+{u'school': [u'school', u'students', u'college', u'schools', u'coaches', u'k', u'student', u'prep', u'parents', u'teachers']}
+{u'searching': [u'searching', u'organizing', u'search', u'list', u'looking', u'posting']}
+{u'contacts': [u'contacts', u'contact', u'gmail', u'emails', u'calendar']}
+{u'sellers': [u'sellers', u'buyers', u'seller', u'marketplace', u'auction', u'auctions', u'estate', u'buying', u'sell', u'homes']}
+{u'young': [u'young', u'adults', u'kids', u'entrepreneurs']}
+{u'calls': [u'calls', u'calling', u'voip', u'phone', u'call', u'jajah', u'landline', u'numbers', u'caller', u'conference']}
+{u'campaign': [u'campaign', u'campaigns', u'advertisers', u'impressions', u'roi', u'marketers']}
+{u'chain': [u'chain', u'supply', u'logistics', u'inventory', u'erp', u'visibility', u'value']}
+{u'educational': [u'educational', u'institutions', u'k', u'learning', u'education', u'academic']}
+{u'i': [u'i', u'am', u'my', u'me', u'm', u'getting']}
+{u'he': [u'he', u'she', u'his', u'him', u'founder', u'chairman', u'mr', u'ceo', u'after', u'director']}
+{u'cash': [u'cash', u'prizes', u'credit', u'prize', u'payment', u'paypal']}
+{u'los': [u'los', u'angeles', u'york', u'chicago', u'offices', u'francisco', u'ca']}
+{u'backup': [u'backup', u'recovery', u'restore', u'storage', u'disaster', u'backups', u'remote', u'protection', u'offsite', u'deduplication']}
+{u'february': [u'february', u'02', u'announced', u'acquired', u'14', u'2008']}
+{u'awards': [u'awards', u'won', u'herring', u'winner', u'numerous', u'alwayson', u'award', u'finalist', u'webby', u'nominated']}
+{u'japan': [u'japan', u'tokyo', u'japanese', u'taiwan', u'korea', u'china', u'softbank', u'offices', u'ntt', u'france']}
+{u'washington': [u'washington', u'd.c', u'dc', u'seattle', u'bellevue', u'columbia', u'district', u'chicago']}
+{u'word': [u'word', u'mouth', u'excel', u'powerpoint', u'spread']}
+{u'board': [u'board', u'directors', u'bulletin', u'job']}
+{u'feeds': [u'feeds', u'rss', u'atom', u'feed', u'description']}
+{u'forums': [u'forums', u'discussion', u'blogs', u'groups', u'participate']}
+{u'numerous': [u'numerous', u'awards', u'honors', u'winner']}
+{u'science': [u'science', u'math', u'biology', u'physics']}
+{u'trading': [u'trading', u'trade', u'commodities', u'traders', u'equities', u'forex', u'securities', u'trader', u'futures', u'stock']}
+{u'film': [u'film', u'films', u'filmmakers', u'thin', u'production', u'television', u'productions', u'festival', u'studios']}
+{u'lists': [u'lists', u'mailing', u'wish', u'friend']}
+{u'asset': [u'asset', u'equities', u'assets', u'management', u'banks']}
+{u'done': [u'done', u'exactly', u'everything', u'task']}
+{u'fashion': [u'fashion', u'boutiques', u'women', u'beauty', u'styles', u'clothes', u'celebrity', u'lifestyle', u'style', u'trends']}
+{u'legal': [u'legal', u'litigation', u'law', u'attorneys', u'lawyers', u'attorney']}
+{u'decision': [u'decision', u'makers', u'making', u'informed']}
+{u'highest': [u'highest', u'levels', u'lowest', u'quality']}
+{u'maps': [u'maps', u'map', u'google', u'mapping', u'tripadvisor', u'gis', u'earth', u'location']}
+{u'rss': [u'rss', u'feeds', u'feed', u'reader', u'atom', u'article', u'subscribe']}
+{u'topics': [u'topics', u'topic', u'subjects', u'editors']}
+{u'transaction': [u'transaction', u'transactions', u'charged', u'fraud']}
+{u'myspace': [u'myspace', u'facebook', u'bebo', u'friendster', u'hi5', u'orkut']}
+{u'net': [u'net', u'java', u'vb', u'perl', u'asp.net']}
+{u'12': [u'12', u'k', u'school', u'months', u'22', u'8']}
+{u'cell': [u'cell', u'phone', u'phones', u'cells', u'stem']}
+{u'college': [u'college', u'students', u'school', u'student', u'admissions', u'textbooks', u'campus', u'campuses', u'exams', u'colleges']}
+{u'magazine': [u'magazine', u'publications', u'named', u'publication', u'wired', u'wall', u'magazines']}
+{u'incorporated': [u'incorporated', u'changed', u'was', u'inc']}
+{u'european': [u'european', u'eu', u'europe', u'germany']}
+{u'january': [u'january', u'2009', u'2011', u'2008']}
+{u'widgets': [u'widgets', u'widget', u'embeddable', u'rss']}
+{u'components': [u'components', u'assembly', u'component', u'defense']}
+{u'leads': [u'leads', u'lead', u'qualified', u'sales']}
+{u'received': [u'received', u'funding', u'awards', u'alwayson', u'accolades', u'downloaded', u'award']}
+{u'safe': [u'safe', u'safely', u'children', u'parents', u'kids']}
+{u'trade': [u'trade', u'trading', u'fairs', u'traders']}
+{u'texas': [u'texas', u'austin', u'dallas', u'houston', u'antonio', u'instruments']}
+{u'monitor': [u'monitor', u'monitoring', u'identify', u'theft', u'conversations', u'activity']}
+{u'places': [u'places', u'bars', u'restaurants', u'eat']}
+{u'recommendations': [u'recommendations', u'recommendation', u'personalized', u'reviews', u'ratings']}
+{u'broadband': [u'broadband', u'dsl', u'wireless', u'residential', u'wifi', u'cable', u'3g', u'carrier', u'voip']}
+{u'deals': [u'deals', u'coupons', u'deal', u'bargain', u'coupon', u'codes', u'comparison']}
+{u'problems': [u'problems', u'solve', u'solving', u'solves']}
+{u'identity': [u'identity', u'theft', u'authentication', u'authenticate', u'verify', u'fraud']}
+{u'december': [u'december', u'announced', u'31', u'2007', u'29']}
+{u'engines': [u'engines', u'search', u'engine', u'keywords', u'searches', u'results']}
+{u'jobs': [u'jobs', u'job', u'employers', u'seekers', u'recruiting', u'employer', u'recruitment', u'resumes', u'career', u'internships']}
+{u'relationship': [u'relationship', u'crm', u'customer', u'relationships']}
+{u'test': [u'test', u'prep', u'tests', u'defects', u'testing', u'sat', u'transition', u'aerospace']}
+{u'beta': [u'beta', u'version', u'launched', u'currently', u'public', u'released']}
+{u'funding': [u'funding', u'received', u'raised', u'seed', u'venture', u'round', u'capital', u'ventures']}
+{u'usa': [u'usa', u'wall', u'uk', u'journal', u'street']}
+{u'3d': [u'3d', u'2d', u'animation', u'realistic', u'rendering', u'virtual', u'worlds', u'avatar']}
+{u'silicon': [u'silicon', u'valley', u'ic', u'fabless', u'circuits', u'chip']}
+{u'sized': [u'sized', u'medium', u'small', u'mid', u'businesses']}
+{u'entrepreneurs': [u'entrepreneurs', u'investors', u'ideas', u'entrepreneurship', u'startups', u'entrepreneurial', u'angel', u'spending', u'startup']}
+{u'stories': [u'stories', u'story', u'news', u'telling']}
+{u'buying': [u'buying', u'selling', u'sellers', u'buyers', u'buy']}
+{u'don': [u'don', u't', u'want', u'have', u'so', u'8217']}
+{u'outsourcing': [u'outsourcing', u'offshore', u'bpo', u'nearshore', u'outsource', u'development']}
+{u'semiconductor': [u'semiconductor', u'fabless', u'rf', u'signal', u'semiconductors', u'chip', u'analog', u'chips', u'wafer', u'cmos']}
+{u'broadcast': [u'broadcast', u'cable', u'television', u'video', u'tv', u'radio']}
+{u'changed': [u'changed', u'name', u'formerly', u'known', u'its', u'was', u'subsidiary', u'incorporated', u'inc', u'as']}
+{u'designers': [u'designers', u'programmers', u'developers', u'graphic', u'strategists', u'design', u'team', u'logo']}
+{u'targeting': [u'targeting', u'behavioral', u'ad', u'advertising', u'advertisers', u'contextual']}
+{u'accounts': [u'accounts', u'payable', u'account', u'savings']}
+{u'crm': [u'crm', u'erp', u'relationship', u'salesforce.com', u'salesforce', u'sugarcrm', u'customer']}
+{u'easier': [u'easier', u'make', u'making', u'makes']}
+{u'stock': [u'stock', u'exchange', u'stocks', u'symbol', u'traders', u'listed', u'trading', u'royalty']}
+{u'advice': [u'advice', u'expert', u'career', u'ask']}
+{u'itself': [u'itself', u'prides', u'differentiates', u'distinguishes']}
+{u'youtube': [u'youtube', u'flickr', u'videos', u'dailymotion', u'metacafe', u'vimeo', u'www.youtube.com', u'blip.tv', u'veoh', u'facebook']}
+{u'listings': [u'listings', u'listing', u'craigslist', u'estate', u'brokers', u'classified', u'apartment']}
+{u'questions': [u'questions', u'answers', u'answer', u'ask', u'answering', u'question']}
+{u'challenges': [u'challenges', u'faced', u'solve', u'face', u'complex', u'address']}
+{u'ever': [u'ever', u'changing', u'him', u'before', u'evolving']}
+{u'insurance': [u'insurance', u'financial', u'healthcare', u'underwriting', u'banking', u'retail', u'insurers', u'industries']}
+{u'remote': [u'remote', u'backup', u'remotely', u'control', u'security']}
+{u've': [u've', u'we\xe2', u'got', u'glance', u'8217', u're']}
+{u'american': [u'american', u'african', u'express', u'north', u'multicultural']}
+{u'buyers': [u'buyers', u'sellers', u'marketplace', u'buyer', u'seller', u'buying', u'sell']}
+{u'founder': [u'founder', u'ceo', u'co', u'chairman', u'he', u'chief', u'his', u'cto', u'president', u'former']}
+{u'industrial': [u'industrial', u'energy', u'automotive', u'manufactures', u'lighting', u'water', u'markets', u'safety', u'oil', u'commercial']}
+{u'stores': [u'stores', u'shopping', u'shopper', u'mortar', u'store', u'brick', u'merchandise', u'shoppers', u'retail']}
+{u'languages': [u'languages', u'language', u'english', u'portuguese', u'translated', u'arabic', u'spanish', u'countries', u'russian', u'french']}
+{u'streaming': [u'streaming', u'cdn', u'video', u'hd', u'playlists', u'music', u'live', u'broadcasters', u'labels', u'stream']}
+{u'environments': [u'environments', u'heterogeneous', u'vmware', u'enterprise']}
+{u'australia': [u'australia', u'melbourne', u'zealand', u'sydney', u'australian', u'kingdom', u'europe', u'canada', u'asia', u'pacific']}
+{u'france': [u'france', u'italy', u'paris', u'spain', u'germany', u'netherlands', u'kingdom', u'poland', u'belgium', u'agence']}
+{u'his': [u'his', u'her', u'he', u'him', u'founder', u'ceo', u'mr', u'finally']}
+{u'marketers': [u'marketers', u'marketing', u'landing', u'campaign', u'advertising']}
+{u'april': [u'april', u'2009', u'2008', u'acquired', u'04', u'launched']}
+{u'domain': [u'domain', u'names', u'registration', u'name', u'registrar', u'hosting', u'domains']}
+{u'down': [u'down', u'shut', u'broken', u'drill', u'narrow']}
+{u'june': [u'june', u'2008', u'acquired', u'2009']}
+{u'protection': [u'protection', u'threats', u'malware', u'security', u'theft', u'protects', u'backup', u'phishing', u'recovery', u'stolen']}
+{u'24': [u'24', u'7', u'hours', u'hour', u'365']}
+{u'maintenance': [u'maintenance', u'implementation', u'installation', u'support', u'repair']}
+{u'7': [u'7', u'24', u'365', u'district', u'chapter']}
+{u'2011': [u'2011', u'2010', u'2012', u'acquired', u'million', u'announced', u'winner', u'january', u'techcrunch.com', u'awards']}
+{u'cards': [u'cards', u'card', u'greeting', u'prepaid', u'credit', u'gift', u'debit']}
+{u'decisions': [u'decisions', u'informed', u'make', u'purchasing', u'better', u'neighborhood']}
+{u'institutions': [u'institutions', u'financial', u'educational', u'education', u'institution', u'academic', u'government']}
+{u'radio': [u'radio', u'stations', u'frequency', u'station', u'rfid', u'antenna', u'receivers', u'broadcast', u'rf', u'identification']}
+{u'computers': [u'computers', u'computer', u'desktop', u'workstations']}
+{u'funded': [u'funded', u'venture', u'ventures', u'angel', u'privately']}
+{u'payment': [u'payment', u'payments', u'credit', u'card', u'debit', u'processing', u'bank', u'transactions', u'paypal', u'transaction']}
+{u'players': [u'players', u'game', u'games', u'mp3', u'player', u'gaming', u'multiplayer', u'leagues', u'casual', u'play']}
+{u'sms': [u'sms', u'mms', u'text', u'mobile', u'messaging', u'messages', u'message', u'email', u'send', u'sending']}
+{u'credit': [u'credit', u'card', u'debit', u'bank', u'cards', u'payment', u'unions', u'loans', u'loan', u'payments']}
+{u'documents': [u'documents', u'document', u'files', u'workspace']}
+{u'shows': [u'shows', u'tv', u'movies', u'viewers', u'television', u'mtv']}
+{u'kingdom': [u'kingdom', u'united', u'germany', u'france', u'australia', u'states', u'london', u'offices', u'canada', u'additional']}
+{u'books': [u'books', u'book', u'authors', u'bookstore', u'reading', u'children', u'movies']}
+{u'finance': [u'finance', u'accounting', u'loans', u'financial', u'audit']}
+{u'march': [u'march', u'launched', u'acquired', u'2012', u'agreement', u'2008']}
+{u'properties': [u'properties', u'property', u'estate', u'rentals']}
+{u'fans': [u'fans', u'artists', u'fan', u'music', u'sports', u'musicians', u'artist', u'promoters', u'concert', u'bands']}
+{u'firms': [u'firms', u'law', u'litigation', u'banks', u'corporations']}
+{u'idea': [u'idea', u'came', u'description', u'behind', u'didn']}
+{u'player': [u'player', u'players', u'play', u'game', u'playback', u'songs']}
+{u'follow': [u'follow', u'twitter', u'twitter.com', u'visit']}
+{u'competitors': [u'competitors', u'crunchbase.com', u'www.crunchbase.com', u'href', u'title', u'http', u'www.techcrunch.com', u'include', u'desktoptwo', u'tag']}
+{u'android': [u'android', u'iphone', u'ios', u'ipad', u'blackberry', u'app', u'mobile', u'apps', u'windows', u'symbian']}
+{u'germany': [u'germany', u'gmbh', u'france', u'spain', u'austria', u'italy', u'poland', u'sweden', u'kingdom', u'switzerland']}
+{u'read': [u'read', u'write', u'readers', u'reading', u'reviews']}
+{u'record': [u'record', u'track', u'labels', u'recordings']}
+{u'message': [u'message', u'messages', u'text', u'send', u'attachment', u'sms', u'messaging', u'sending', u'boards', u'email']}
+{u'yahoo': [u'yahoo', u'msn', u'google', u'hotmail', u'aol', u'bing', u'gmail']}
+{u'asia': [u'asia', u'pacific', u'europe', u'america', u'east', u'africa', u'north', u'americas', u'middle', u'latin']}
+{u'china': [u'china', u'beijing', u'chinese', u'shanghai', u'hong', u'kong', u'taiwan', u'japan', u'brazil', u'alibaba']}
+{u'fortune': [u'fortune', u'500', u'1000', u'companies']}
+{u'monthly': [u'monthly', u'fee', u'million', u'visitors', u'compiles']}
+{u'compliance': [u'compliance', u'regulatory', u'regulations', u'governance', u'security', u'pci', u'vulnerabilities', u'vulnerability', u'management', u'policy']}
+{u'engagement': [u'engagement', u'brands', u'engaging', u'conversations', u'audience']}
+{u'link': [u'link', u'links', u'linked', u'url', u'urls']}
+{u'efficiency': [u'efficiency', u'reliability', u'mitigate', u'increase', u'energy', u'reducing']}
+{u'mail': [u'mail', u'e', u'send', u'gmail']}
+{u'card': [u'card', u'credit', u'cards', u'debit', u'payment', u'gift', u'payments', u'visa', u'issuers', u'prepaid']}
+{u'servers': [u'servers', u'server', u'vps', u'storage', u'workstations', u'unmanaged', u'desktops', u'bare', u'hosting', u'restore']}
+{u'friendly': [u'friendly', u'eco', u'environmentally', u'user']}
+{u'image': [u'image', u'images', u'gallery', u'photographers']}
+{u'pictures': [u'pictures', u'videos', u'paramount', u'descriptions']}
+{u'testing': [u'testing', u'tests', u'test', u'qa', u'multivariate', u'assurance', u'usability', u'porting']}
+{u'university': [u'university', u'stanford', u'yale', u'professor', u'students', u'cornell', u'student', u'universities', u'harvard', u'college']}
+{u'learn': [u'learn', u'about', u'visit', u'quizzes']}
+{u'ventures': [u'ventures', u'capital', u'venture', u'dag', u'investors', u'backed', u'partners', u'khosla', u'redpoint', u'shasta']}
+{u'book': [u'book', u'books', u'booking', u'literature', u'accommodations', u'appointments']}
+{u'risk': [u'risk', u'mitigate', u'compliance', u'mitigation', u'financial', u'reduce', u'governance', u'management']}
+{u'chat': [u'chat', u'chatting', u'live', u'instant', u'im']}
+{u'less': [u'less', u'overload', u'than', u'because']}
+{u'retailers': [u'retailers', u'shoppers', u'shopping', u'retailer']}
+{u'artists': [u'artists', u'artist', u'music', u'labels', u'musicians', u'fans', u'songs', u'indie', u'fan', u'bands']}
+{u'computing': [u'computing', u'cloud', u'hpc', u'clouds', u'cluster', u'environments']}
+{u'estate': [u'estate', u'real', u'property', u'agents', u'homes', u'mls', u'zillow', u'brokers', u'realty', u'listings']}
+{u'seo': [u'seo', u'sem', u'ppc', u'optimization', u'marketing', u'engine', u'search', u'organic', u'design']}
+{u'ip': [u'ip', u'voip', u'voice', u'communications', u'protocol', u'telephony', u'providers', u'mpls', u'intellectual', u'pbx']}
+{u'lead': [u'lead', u'generation', u'leads', u'nurturing', u'prospects', u'protein']}
+{u'telecommunications': [u'telecommunications', u'communications', u'dsl', u'ntt']}
+{u'operators': [u'operators', u'mobile', u'telecom', u'handset', u'providers', u'mms']}
+{u'television': [u'television', u'tv', u'broadcast', u'film', u'cable', u'broadcasting', u'stations', u'abc', u'comedy', u'entertainment']}
+{u'times': [u'times', u'york', u'journal', u'downloaded']}
+{u'implementation': [u'implementation', u'maintenance', u'consulting', u'alliances']}
+{u'language': [u'language', u'natural', u'languages', u'english', u'translation', u'learning', u'translations', u'arabic', u'translators', u'dictionary']}
+{u'company\xe2': [u'company\xe2', u's', u'inc', u'engages', u'founded', u'headquartered']}
+{u'display': [u'display', u'advertisers', u'ads', u'advertising', u'displays', u'retargeting', u'ad']}
+{u'whether': [u'whether', u'or', u'you', u'your']}
+{u'2010': [u'2010', u'2011', u'winner', u'2012', u'2009', u'november', u'herring', u'awards']}
+{u'does': [u'does', u'not', u'require', u'but']}
+{u'electronics': [u'electronics', u'consumer', u'automotive', u'semiconductor', u'products']}
+{u'files': [u'files', u'file', u'documents', u'storage', u'docs', u'backup', u'uploader', u'share']}
+{u'instant': [u'instant', u'messaging', u'messenger', u'icq', u'chat']}
+{u'property': [u'property', u'intellectual', u'estate', u'properties', u'tenants', u'landlords', u'homes', u'residential', u'agents', u'listing']}
+{u'ltd': [u'ltd', u'pvt', u'co', u'pty', u'subsidiary']}
+{u'before': [u'before', u'ever', u'deciding', u'never']}
+{u'would': [u'would', u'be', u'like', u'if', u'otherwise', u'garage']}
+{u'billion': [u'billion', u'dollar', u'1.6', u'month', u'over', u'than', u'1.5', u'million', u'annually', u'nearly']}
+{u'file': [u'file', u'files', u'storage', u'ftp', u'sharing', u'transfer', u'backup']}
+{u'windows': [u'windows', u'linux', u'mac', u'xp', u'symbian', u'blackberry', u'android', u'os', u'desktop', u'vista']}
+{u'reduce': [u'reduce', u'costs', u'increase', u'risk', u'emissions', u'consumption', u'cost']}
+{u'messages': [u'messages', u'send', u'message', u'messaging', u'sending', u'sent', u'email', u'text', u'sms', u'assigning']}
+{u'manufacturers': [u'manufacturers', u'equipment', u'handset', u'distributors', u'oems', u'products']}
+{u'backed': [u'backed', u'venture', u'capital', u'ventures', u'investors', u'sequoia', u'by', u'partners']}
+{u'equipment': [u'equipment', u'manufacturers', u'original', u'semiconductor', u'oems', u'products']}
+{u'1999': [u'1999', u'founded', u'was', u'inc']}
+{u'discovery': [u'discovery', u'drug', u'litigation', u'cancers']}
+{u'ads': [u'ads', u'ad', u'classified', u'advertisers', u'advertising', u'display', u'publishers', u'classifieds', u'retargeting', u'banner']}
+{u'students': [u'students', u'college', u'student', u'teachers', u'school', u'universities', u'campus', u'internships', u'schools', u'education']}
+{u'care': [u'care', u'health', u'patient', u'physicians', u'medical', u'patients', u'physician']}
+{u'reporting': [u'reporting', u'compliance', u'management', u'dashboards']}
+{u'profiles': [u'profiles', u'social', u'networking', u'profile']}
+{u'send': [u'send', u'messages', u'email', u'message', u'sending', u'receive', u'can', u'mail', u'sms', u'emails']}
+{u'learning': [u'learning', u'teaching', u'curriculum', u'education', u'teachers', u'language', u'courses', u'classroom', u'learners', u'students']}
+{u'account': [u'account', u'bank', u'accounts', u'or', u'credit']}
+{u'play': [u'play', u'games', u'game', u'playing', u'player', u'players', u'gaming', u'casino', u'played']}
+{u'owned': [u'owned', u'wholly', u'operated', u'subsidiary', u'privately']}
+{u'gaming': [u'gaming', u'games', u'game', u'gamers', u'casual', u'casino', u'entertainment', u'players', u'gamer', u'warcraft']}
+{u'canada': [u'canada', u'states', u'united', u'montreal', u'toronto', u'kingdom', u'ottawa', u'australia', u'vancouver']}
+{u'images': [u'images', u'image', u'photographers', u'videos', u'photography', u'slideshow', u'getty']}
+{u'manufacturing': [u'manufacturing', u'industries', u'healthcare', u'retail', u'aerospace', u'financial', u'energy']}
+{u'off': [u'off', u'spin', u'shelf', u'spun']}
+{u'designs': [u'designs', u'manufactures', u'develops', u'shirt', u'circuits']}
+{u'medium': [u'medium', u'sized', u'small', u'businesses']}
+{u'upload': [u'upload', u'photos', u'videos', u'can', u'share', u'users']}
+{u'call': [u'call', u'calls', u'center', u'866', u'phone', u'calling', u'voice', u'landline']}
+{u'exchange': [u'exchange', u'stock', u'traded', u'listed']}
+{u'job': [u'job', u'jobs', u'employers', u'seekers', u'career', u'candidates', u'recruiting', u'resumes', u'employment', u'recruitment']}
+{u'3': [u'3', u'2', u'1', u'5']}
+{u'photo': [u'photo', u'photos', u'galleries', u'sharing', u'albums', u'editing', u'gallery']}
+{u'london': [u'london', u'offices', u'york', u'kingdom', u'headquartered', u'uk', u'munich', u'paris', u'san', u'francisco']}
+{u'north': [u'north', u'america', u'europe', u'asia', u'carolina', u'pacific', u'south', u'american', u'latin', u'east']}
+{u'were': [u'were', u'had', u'was', u'founders']}
+{u'keep': [u'keep', u'track', u'you', u'your', u'up']}
+{u'state': [u'state', u'art', u'federal', u'solid']}
+{u'visitors': [u'visitors', u'month', u'million', u'unique', u'site', u'attracts']}
+{u'click': [u'click', u'pay', u'button', u'per', u'login']}
+{u'messaging': [u'messaging', u'instant', u'messages', u'sms', u'text', u'icq', u'messenger', u'message']}
+{u'profile': [u'profile', u'social', u'can', u'profiles']}
+{u'audience': [u'audience', u'reach', u'advertisers', u'wider', u'target', u'reaching']}
+{u'investors': [u'investors', u'angel', u'ventures', u'capital', u'venture', u'investor', u'backed', u'investment', u'stocks', u'fund']}
+{u'sports': [u'sports', u'football', u'basketball', u'fans', u'sport', u'athletes', u'nfl', u'baseball', u'league', u'athlete']}
+{u'award': [u'award', u'winning', u'awards', u'won']}
+{u'pages': [u'pages', u'yellow', u'landing', u'page']}
+{u'campaigns': [u'campaigns', u'advertising', u'marketing', u'advertisers', u'campaign', u'agencies', u'targeted', u'ad']}
+{u'medical': [u'medical', u'patient', u'patients', u'physicians', u'health', u'healthcare', u'unmet', u'doctors', u'clinical', u'care']}
+{u'targeted': [u'targeted', u'advertising', u'advertisers', u'campaigns']}
+{u'healthcare': [u'healthcare', u'patient', u'financial', u'government', u'industries', u'medical', u'retail', u'education', u'insurance', u'manufacturing']}
+{u'event': [u'event', u'events', u'organizers', u'tickets', u'attendees', u'ticket', u'attendee', u'venue', u'conferences', u'planners']}
+{u'price': [u'price', u'comparison', u'comparisons', u'prices']}
+{u'2': [u'2', u'1', u'3', u'4']}
+{u'browser': [u'browser', u'firefox', u'explorer', u'safari', u'browsing', u'web']}
+{u'month': [u'month', u'per', u'million', u'visitors', u'over', u'pageviews', u'attracts', u'billion', u'reaches', u'than']}
+{u'lets': [u'lets', u'you', u'your', u'or']}
+{u'formerly': [u'formerly', u'known', u'changed', u'name', u'inc', u'was', u'subsidiary', u'founded', u'operates', u'as']}
+{u'india': [u'india', u'bangalore', u'indian', u'pune', u'delhi', u'chennai', u'hyderabad', u'mumbai', u'pvt', u'9001']}
+{u'advertisers': [u'advertisers', u'publishers', u'advertising', u'ad', u'ads', u'campaigns', u'advertiser', u'campaign', u'agencies', u'reach']}
+{u'co': [u'co', u'founder', u'founders', u'ltd', u'chairman']}
+{u'managed': [u'managed', u'services', u'hosting', u'infrastructure']}
+{u'investment': [u'investment', u'return', u'investors', u'funds', u'equity', u'hedge', u'investments', u'investor', u'invest']}
+{u'know': [u'know', u'how', u'you', u'what', u'get', u'people', u'so', u'about']}
+{u'phones': [u'phones', u'mobile', u'cell', u'phone', u'devices', u'pdas']}
+{u'long': [u'long', u'term', u'tail', u'lasting']}
+{u'storage': [u'storage', u'backup', u'file', u'disk', u'recovery', u'data', u'servers', u'files']}
+{u'health': [u'health', u'care', u'wellness', u'medical', u'fitness', u'healthcare', u'nutrition', u'doctors', u'patients', u'patient']}
+{u'education': [u'education', u'students', u'government', u'healthcare', u'learning', u'higher', u'student', u'institutions', u'k']}
+{u'processes': [u'processes', u'business', u'automate', u'management']}
+{u'reach': [u'reach', u'advertisers', u'audiences', u'audience']}
+{u'tv': [u'tv', u'television', u'movies', u'shows', u'cable', u'video', u'entertainment', u'iptv', u'broadcast', u'viewers']}
+{u'apps': [u'apps', u'app', u'android', u'iphone', u'ios', u'mobile', u'ipad']}
+{u'shopping': [u'shopping', u'cart', u'comparison', u'shoppers', u'retailers', u'stores', u'shop', u'carts']}
+{u'intelligence': [u'intelligence', u'artificial', u'data', u'analytics', u'business', u'bi']}
+{u'city': [u'city', u'york', u'redwood', u'salt', u'new']}
+{u'venture': [u'venture', u'capital', u'backed', u'ventures', u'partners', u'capitalists', u'joint', u'funded', u'investors', u'raised']}
+{u'america': [u'america', u'north', u'latin', u'europe', u'asia', u'pacific', u'south']}
+{u'voice': [u'voice', u'ip', u'voip', u'voicemail', u'communications', u'phone', u'speech', u'telephony', u'wireless', u'call']}
+{u'store': [u'store', u'app', u'stores', u'iphone']}
+{u'francisco': [u'francisco', u'san', u'california', u'offices', u'bay', u'york', u'headquartered', u'chicago', u'london']}
+{u'serves': [u'serves', u'inc', u'offers', u'founded', u'was', u'industries', u'as', u'headquartered']}
+{u'agency': [u'agency', u'marketing', u'digital', u'creative', u'clients']}
+{u'retail': [u'retail', u'financial', u'healthcare', u'manufacturing', u'industries', u'insurance']}
+{u'able': [u'able', u'be', u'will', u'are']}
+{u'travel': [u'travel', u'travelers', u'trip', u'trips', u'destinations', u'hotels', u'airline', u'flights', u'traveler', u'hotel']}
+{u'strategic': [u'strategic', u'alliances', u'partnerships', u'planning']}
+{u'blogs': [u'blogs', u'forums', u'blog', u'social']}
+{u'energy': [u'energy', u'renewable', u'solar', u'electricity', u'clean', u'gas', u'wind', u'power', u'electric', u'environmental']}
+{u'microsoft': [u'microsoft', u'ibm', u'sharepoint', u'windows']}
+{u'money': [u'money', u'save', u'saving', u'earn']}
+{u'costs': [u'costs', u'reduce', u'lower', u'reducing', u'increase']}
+{u'app': [u'app', u'iphone', u'android', u'apps', u'ios', u'ipad', u'mobile', u'store']}
+{u'capital': [u'capital', u'venture', u'ventures', u'sequoia', u'backed', u'investors', u'partners', u'dag', u'funding']}
+{u'optimization': [u'optimization', u'engine', u'seo', u'search', u'marketing', u'sem']}
+{u'even': [u'even', u'can', u'you', u'or', u'if', u'your']}
+{u're': [u're', u'you', u'8217', u'you\xe2', u'what', u'we', u'so']}
+{u'increase': [u'increase', u'reduce', u'improve', u'costs']}
+{u'creative': [u'creative', u'commons', u'design', u'agency']}
+{u'iphone': [u'iphone', u'android', u'ipad', u'ipod', u'app', u'blackberry', u'apple', u'apps', u'mobile', u'touch']}
+{u'wireless': [u'wireless', u'broadband', u'carriers', u'communications', u'wireline', u'carrier', u'wimax', u'cellular', u'devices', u'mobile']}
+{u'privately': [u'privately', u'held', u'owned', u'company']}
+{u'publishers': [u'publishers', u'advertisers', u'ad', u'advertising', u'publisher', u'content', u'monetize', u'ads', u'revenue']}
+{u'additional': [u'additional', u'offices', u'kingdom', u'united']}
+{u'visit': [u'visit', u'please', u'more', u'information']}
+{u'post': [u'post', u'can', u'comments', u'posted']}
+{u'text': [u'text', u'message', u'sms', u'messages', u'phone', u'messaging']}
+{u'government': [u'government', u'agencies', u'healthcare', u'education', u'security', u'federal', u'solutions', u'financial', u'enterprise']}
+{u'ad': [u'ad', u'advertisers', u'advertising', u'ads', u'publishers', u'targeting', u'hoc', u'advertiser']}
+{u'agencies': [u'agencies', u'government', u'advertising', u'advertisers', u'campaigns']}
+{u'page': [u'page', u'pages', u'views', u'can']}
+{u'multi': [u'multi', u'lingual', u'dollar', u'channel']}
+{u'twitter': [u'twitter', u'facebook', u'tweets', u'follow', u'tweet', u'linkedin']}
+{u'per': [u'per', u'month', u'pay', u'click', u'million']}
+{u'name': [u'name', u'changed', u'formerly', u'known', u'domain', u'was']}
+{u'europe': [u'europe', u'asia', u'america', u'north', u'pacific', u'east', u'middle', u'africa', u'united', u'latin']}
+{u'york': [u'york', u'new', u'city', u'offices', u'london', u'angeles', u'los', u'chicago', u'francisco', u'san']}
+{u'game': [u'game', u'games', u'gaming', u'gamers', u'multiplayer', u'casual', u'play', u'players', u'mmo']}
+{u'start': [u'start', u'ups', u'up', u'finish']}
+{u'100': [u'100', u'herring', u'over', u'than']}
+{u'see': [u'see', u'what', u'you', u'can', u'if', u'your', u'or']}
+{u'photos': [u'photos', u'photo', u'videos', u'upload', u'share', u'friends']}
+{u'known': [u'known', u'formerly', u'changed', u'name', u'as', u'was', u'inc', u'its', u'founded']}
+{u'google': [u'google', u'yahoo', u'adwords', u'maps', u'adsense', u'docs']}
+{u'www.crunchbase.com': [u'www.crunchbase.com', u'href', u'title', u'http', u'competitors', u'company', u'www.techcrunch.com', u'nofollow', u'rel', u'seedcamp']}
+{u'countries': [u'countries', u'than', u'global', u'over', u'worldwide', u'more', u'languages']}
+{u'growing': [u'growing', u'fastest', u'fast', u'rapidly']}
+{u'acquired': [u'acquired', u'was', u'by', u'2011']}
+{u'industries': [u'industries', u'healthcare', u'manufacturing', u'financial', u'retail']}
+{u'virtual': [u'virtual', u'worlds', u'virtualization', u'3d']}
+{u'want': [u'want', u'you', u'who', u'they', u'if', u'get', u'can']}
+{u'subsidiary': [u'subsidiary', u'operates', u'inc', u'wholly', u'was', u'founded', u'as', u'corp', u'offers', u'california']}
+{u't': [u't', u'don', u'doesn', u'isn', u'aren', u'8217', u'didn', u'don\xe2', u'have', u'if']}
+{u'if': [u'if', u'you', u'will', u'can', u'or', u'your', u'not', u'see', u'be', u't']}
+{u'states': [u'states', u'united', u'canada', u'kingdom', u'inc', u'internationally', u'operates']}
+{u'games': [u'games', u'game', u'gaming', u'casual', u'play', u'gamers', u'multiplayer', u'players']}
+{u'phone': [u'phone', u'mobile', u'cell', u'calls']}
+{u'facebook': [u'facebook', u'myspace', u'twitter', u'social', u'linkedin', u'bebo', u'friends', u'friendster']}
+{u'san': [u'san', u'francisco', u'california', u'diego', u'jose', u'mateo', u'offices', u'headquartered', u'bay', u'york']}
+{u'there': [u'there', u'no', u'are', u'be', u'not', u'can']}
+{u'videos': [u'videos', u'photos', u'youtube', u'video', u'upload', u'watch']}
+{u'do': [u'do', u'what', u'we', u'not', u'you', u'have', u'so']}
+{u'just': [u'just', u'you', u'not', u'can']}
+{u'without': [u'without', u'or', u'having', u'any', u'need']}
+{u'security': [u'security', u'threats', u'secure', u'compliance', u'protection', u'vulnerability', u'threat', u'malware', u'government']}
+{u'how': [u'how', u'know', u'you', u'what']}
+{u'years': [u'years', u'experience', u'over', u'has', u'been']}
+{u'music': [u'music', u'artists', u'songs', u'musicians', u'labels', u'artist', u'bands', u'playlists', u'song', u'fans']}
+{u'united': [u'united', u'states', u'kingdom', u'inc', u'canada', u'operates', u'was', u'founded', u'internationally', u'europe']}
+{u'no': [u'no', u'there', u'longer', u'or']}
+{u'offices': [u'offices', u'headquartered', u'london', u'york', u'additional', u'san', u'francisco', u'founded']}
+{u'california': [u'california', u'san', u'inc', u'headquartered', u'founded', u'was', u'sunnyvale', u'santa', u'francisco', u'company']}
+{u'financial': [u'financial', u'institutions', u'healthcare', u'insurance', u'retail']}
+{u'so': [u'so', u'can', u'you', u'your', u'be', u'not']}
+{u'friends': [u'friends', u'share', u'family', u'can', u'social', u'you', u'your']}
+{u'operates': [u'operates', u'subsidiary', u'inc', u'was', u'founded', u'united', u'company', u'as']}
+{u'2007': [u'2007', u'was', u'founded', u'launched']}
+{u'since': [u'since', u'been', u'has', u'inception']}
+{u'million': [u'million', u'over', u'than', u'month', u'more']}
+{u'what': [u'what', u'do', u'you', u'see', u'they']}
+{u'small': [u'small', u'medium', u'businesses', u'sized']}
+{u'nofollow': [u'nofollow', u'rel', u'href', u'title', u'http']}
+{u'rel': [u'rel', u'nofollow', u'href', u'title', u'http']}
+{u'advertising': [u'advertising', u'advertisers', u'ad', u'campaigns']}
+{u'been': [u'been', u'has', u'since', u'have']}
+{u'headquartered': [u'headquartered', u'california', u'offices', u'founded', u'inc', u'was', u'san']}
+{u'not': [u'not', u'but', u'only', u'does']}
+{u'href': [u'href', u'title', u'nofollow', u'rel', u'http', u'www.crunchbase.com']}
+{u'title': [u'title', u'href', u'nofollow', u'rel', u'http', u'www.crunchbase.com']}
+{u'inc': [u'inc', u'was', u'subsidiary', u'founded', u'california', u'operates']}
+{u'http': [u'http', u'href', u'title', u'nofollow', u'rel', u'www.crunchbase.com']}
+
